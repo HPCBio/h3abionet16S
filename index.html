@@ -20,121 +20,19 @@
 
     <section class="main-content">
       <h1>
-<a id="rdna-a-tool-for-16s-rrna-diversity-analysis" class="anchor" href="#rdna-a-tool-for-16s-rrna-diversity-analysis" aria-hidden="true"><span aria-hidden="true" class="octicon octicon-link"></span></a>rdna: a tool for 16S rRNA diversity analysis</h1>
+<a id="h3abionet16s-16s-analysis-package" class="anchor" href="#h3abionet16s-16s-analysis-package" aria-hidden="true"><span aria-hidden="true" class="octicon octicon-link"></span></a>h3abionet16S 16S analysis package</h1>
 
-<p>rdna is a flexible tool that allows you to choose a cloud provider, create virtual machines, upload data/workflow/licenses and run it. rdna is written in Go and published as a single binary, you should be able to download it and run it without any dependences.</p>
+<p><strong>Warning: This tool and packages are made for demo at the one week H3ABioNet Hackathon</strong></p>
 
-<h2>
-<a id="how-to-install" class="anchor" href="#how-to-install" aria-hidden="true"><span aria-hidden="true" class="octicon octicon-link"></span></a>How to install</h2>
+<p><strong>docker</strong> - docker build files for QC, UPARSE and QIIME setup</p>
 
-<div class="highlight highlight-source-shell"><pre>$ wget https://raw.githubusercontent.com/h3abionet/h3abionet16S/master/rdna.tar.gz
-$ tar zxvf rdna.tar.gz
-$ <span class="pl-c1">cd</span> rdna
-$ chmod +x rdna
-$ ./rdna
-usage: rdna server<span class="pl-k">|</span>workflow</pre></div>
+<p><strong>workflows</strong> - CWL workflows for running the 16S pipeline on a VM setup with the necessary software. Still in development.</p>
 
-<h2>
-<a id="how-to-use" class="anchor" href="#how-to-use" aria-hidden="true"><span aria-hidden="true" class="octicon octicon-link"></span></a>How to use</h2>
+<p><img src="/h3abionet16S_CWL_workflow.png?raw=true" alt="workflow" title="CWL workflow"></p>
 
-<h3>
-<a id="list-all-the-cloud-providers" class="anchor" href="#list-all-the-cloud-providers" aria-hidden="true"><span aria-hidden="true" class="octicon octicon-link"></span></a>List all the cloud providers</h3>
+<p><strong>workflows-docker</strong> - CWL workflows for the 16S pipeline to run on the Docker containers. Still in development.</p>
 
-<div class="highlight highlight-source-shell"><pre>$ ./rdna server provider
-+-------------+------+-----+-------------+------------+-------------+------------------------+
-<span class="pl-k">|</span>    NAME     <span class="pl-k">|</span> VCPU <span class="pl-k">|</span> RAM <span class="pl-k">|</span>   STORAGE   <span class="pl-k">|</span>    I/O     <span class="pl-k">|</span> HOURLY COST <span class="pl-k">|</span>        PROVIDER        <span class="pl-k">|</span>
-+-------------+------+-----+-------------+------------+-------------+------------------------+
-<span class="pl-k">|</span> t2.micro    <span class="pl-k">|</span>    1 <span class="pl-k">|</span>   1 <span class="pl-k">|</span>          -- <span class="pl-k">|</span> Low        <span class="pl-k">|</span> <span class="pl-smi">$0</span>.000      <span class="pl-k">|</span> Amazon EC2             <span class="pl-k">|</span>
-<span class="pl-k">|</span> m4.xlarge   <span class="pl-k">|</span>    4 <span class="pl-k">|</span>  16 <span class="pl-k">|</span>          -- <span class="pl-k">|</span> High       <span class="pl-k">|</span> <span class="pl-smi">$0</span>.239      <span class="pl-k">|</span> Amazon EC2             <span class="pl-k">|</span>
-<span class="pl-k">|</span> m4.2xlarge  <span class="pl-k">|</span>    8 <span class="pl-k">|</span>  32 <span class="pl-k">|</span>          -- <span class="pl-k">|</span> High       <span class="pl-k">|</span> <span class="pl-smi">$0</span>.479      <span class="pl-k">|</span> Amazon EC2             <span class="pl-k">|</span>
-<span class="pl-k">|</span> m4.4xlarge  <span class="pl-k">|</span>   16 <span class="pl-k">|</span>  64 <span class="pl-k">|</span>          -- <span class="pl-k">|</span> High       <span class="pl-k">|</span> <span class="pl-smi">$0</span>.958      <span class="pl-k">|</span> Amazon EC2             <span class="pl-k">|</span>
-<span class="pl-k">|</span> m4.10xlarge <span class="pl-k">|</span>   40 <span class="pl-k">|</span> 160 <span class="pl-k">|</span>          -- <span class="pl-k">|</span> 10 Gigabit <span class="pl-k">|</span> <span class="pl-smi">$2</span>.394      <span class="pl-k">|</span> Amazon EC2             <span class="pl-k">|</span>
-<span class="pl-k">|</span> c4.2xlarge  <span class="pl-k">|</span>    8 <span class="pl-k">|</span>  15 <span class="pl-k">|</span>          -- <span class="pl-k">|</span> High       <span class="pl-k">|</span> <span class="pl-smi">$0</span>.419      <span class="pl-k">|</span> Amazon EC2             <span class="pl-k">|</span>
-<span class="pl-k">|</span> c4.4xlarge  <span class="pl-k">|</span>   16 <span class="pl-k">|</span>  30 <span class="pl-k">|</span>          -- <span class="pl-k">|</span> High       <span class="pl-k">|</span> <span class="pl-smi">$0</span>.838      <span class="pl-k">|</span> Amazon EC2             <span class="pl-k">|</span>
-<span class="pl-k">|</span> c4.8xlarge  <span class="pl-k">|</span>   36 <span class="pl-k">|</span>  60 <span class="pl-k">|</span>          -- <span class="pl-k">|</span> 10 Gigabit <span class="pl-k">|</span> <span class="pl-smi">$1</span>.675      <span class="pl-k">|</span> Amazon EC2             <span class="pl-k">|</span>
-<span class="pl-k">|</span> r3.large    <span class="pl-k">|</span>    2 <span class="pl-k">|</span>  15 <span class="pl-k">|</span> SSD 1 x  32 <span class="pl-k">|</span> Moderate   <span class="pl-k">|</span> <span class="pl-smi">$0</span>.166      <span class="pl-k">|</span> Amazon EC2             <span class="pl-k">|</span>
-<span class="pl-k">|</span> r3.xlarge   <span class="pl-k">|</span>    4 <span class="pl-k">|</span>  30 <span class="pl-k">|</span> SSD 1 x  80 <span class="pl-k">|</span> Moderate   <span class="pl-k">|</span> <span class="pl-smi">$0</span>.333      <span class="pl-k">|</span> Amazon EC2             <span class="pl-k">|</span>
-<span class="pl-k">|</span> r3.2xlarge  <span class="pl-k">|</span>    8 <span class="pl-k">|</span>  61 <span class="pl-k">|</span> SSD 1 x 160 <span class="pl-k">|</span> High       <span class="pl-k">|</span> <span class="pl-smi">$0</span>.665      <span class="pl-k">|</span> Amazon EC2             <span class="pl-k">|</span>
-<span class="pl-k">|</span> r3.4xlarge  <span class="pl-k">|</span>   16 <span class="pl-k">|</span> 122 <span class="pl-k">|</span> SSD 1 x 320 <span class="pl-k">|</span> High       <span class="pl-k">|</span> <span class="pl-smi">$1</span>.330      <span class="pl-k">|</span> Amazon EC2             <span class="pl-k">|</span>
-<span class="pl-k">|</span> r3.8xlarge  <span class="pl-k">|</span>   32 <span class="pl-k">|</span> 244 <span class="pl-k">|</span> SSD 2 x 320 <span class="pl-k">|</span> 10 Gigabit <span class="pl-k">|</span> <span class="pl-smi">$2</span>.660      <span class="pl-k">|</span> Amazon EC2             <span class="pl-k">|</span>
-<span class="pl-k">|</span> i2.xlarge   <span class="pl-k">|</span>    4 <span class="pl-k">|</span>  30 <span class="pl-k">|</span> SSD 1 x 800 <span class="pl-k">|</span> Moderate   <span class="pl-k">|</span> <span class="pl-smi">$0</span>.853      <span class="pl-k">|</span> Amazon EC2             <span class="pl-k">|</span>
-<span class="pl-k">|</span> i2.2xlarge  <span class="pl-k">|</span>    8 <span class="pl-k">|</span>  61 <span class="pl-k">|</span> SSD 2 x 800 <span class="pl-k">|</span> High       <span class="pl-k">|</span> <span class="pl-smi">$1</span>.705      <span class="pl-k">|</span> Amazon EC2             <span class="pl-k">|</span>
-<span class="pl-k">|</span> i2.4xlarge  <span class="pl-k">|</span>   16 <span class="pl-k">|</span> 122 <span class="pl-k">|</span> SSD 4 x 800 <span class="pl-k">|</span> High       <span class="pl-k">|</span> <span class="pl-smi">$3</span>.410      <span class="pl-k">|</span> Amazon EC2             <span class="pl-k">|</span>
-<span class="pl-k">|</span> i2.8xlarge  <span class="pl-k">|</span>   32 <span class="pl-k">|</span> 244 <span class="pl-k">|</span> SSD 8 x 800 <span class="pl-k">|</span> 10 Gigabit <span class="pl-k">|</span> <span class="pl-smi">$6</span>.820      <span class="pl-k">|</span> Amazon EC2             <span class="pl-k">|</span>
-<span class="pl-k">|</span> vm16        <span class="pl-k">|</span>    4 <span class="pl-k">|</span>  16 <span class="pl-k">|</span> SAS 1 x 100 <span class="pl-k">|</span> 10 Gigabit <span class="pl-k">|</span> <span class="pl-smi">$0</span>.040      <span class="pl-k">|</span> SANBI                  <span class="pl-k">|</span>
-<span class="pl-k">|</span> vm32        <span class="pl-k">|</span>    8 <span class="pl-k">|</span>  32 <span class="pl-k">|</span> SAS 1 x 200 <span class="pl-k">|</span> 10 Gigabit <span class="pl-k">|</span> <span class="pl-smi">$0</span>.080      <span class="pl-k">|</span> SANBI                  <span class="pl-k">|</span>
-<span class="pl-k">|</span> vm64        <span class="pl-k">|</span>   16 <span class="pl-k">|</span>  64 <span class="pl-k">|</span> SAS 1 x 400 <span class="pl-k">|</span> 10 Gigabit <span class="pl-k">|</span> <span class="pl-smi">$0</span>.160      <span class="pl-k">|</span> SANBI                  <span class="pl-k">|</span>
-<span class="pl-k">|</span> vm128       <span class="pl-k">|</span>   32 <span class="pl-k">|</span> 128 <span class="pl-k">|</span> SAS 1 x 800 <span class="pl-k">|</span> 10 Gigabit <span class="pl-k">|</span> <span class="pl-smi">$0</span>.320      <span class="pl-k">|</span> SANBI                  <span class="pl-k">|</span>
-<span class="pl-k">|</span> m1.large    <span class="pl-k">|</span>    4 <span class="pl-k">|</span>   8 <span class="pl-k">|</span> SAS 1 x 80  <span class="pl-k">|</span> 10 Gigabit <span class="pl-k">|</span> <span class="pl-smi">$0</span>.0        <span class="pl-k">|</span> University of Illinois <span class="pl-k">|</span>
-<span class="pl-k">|</span> m1.xlarge   <span class="pl-k">|</span>    8 <span class="pl-k">|</span>  16 <span class="pl-k">|</span> SAS 1 x 160 <span class="pl-k">|</span> 10 Gigabit <span class="pl-k">|</span> <span class="pl-smi">$0</span>.0        <span class="pl-k">|</span> University of Illinois <span class="pl-k">|</span>
-<span class="pl-k">|</span> <span class="pl-k">local</span>       <span class="pl-k">|</span>    8 <span class="pl-k">|</span>  16 <span class="pl-k">|</span> SAS 1 x 200 <span class="pl-k">|</span> 10 Gigabit <span class="pl-k">|</span> <span class="pl-smi">$0</span>.0        <span class="pl-k">|</span> Local machine          <span class="pl-k">|</span>
-+-------------+------+-----+-------------+------------+-------------+------------------------+</pre></div>
-
-<p>This will list all the cloud providers you can choose to run your workflows, you can 
-also run it in your local machine.</p>
-
-<h3>
-<a id="list-all-the-servers" class="anchor" href="#list-all-the-servers" aria-hidden="true"><span aria-hidden="true" class="octicon octicon-link"></span></a>List all the servers</h3>
-
-<p>Once we have a cloud provider, we can list all the servers in that cloud:</p>
-
-<div class="highlight highlight-source-shell"><pre>$ ./rdna server list
-+------------------+--------+----------------------+----------------+
-<span class="pl-k">|</span>  INSTANCE NAME   <span class="pl-k">|</span> STATUS <span class="pl-k">|</span>       CREATED        <span class="pl-k">|</span>   PUBLIC IP    <span class="pl-k">|</span>
-+------------------+--------+----------------------+----------------+
-<span class="pl-k">|</span> h3abionet16sDemo <span class="pl-k">|</span> ACTIVE <span class="pl-k">|</span> 2016-08-25T16:23:24Z <span class="pl-k">|</span> 141.142.209.51 <span class="pl-k">|</span>
-<span class="pl-k">|</span> node4            <span class="pl-k">|</span> ACTIVE <span class="pl-k">|</span> 2016-08-25T07:45:12Z <span class="pl-k">|</span> 141.142.209.50 <span class="pl-k">|</span>
-<span class="pl-k">|</span> node3            <span class="pl-k">|</span> ACTIVE <span class="pl-k">|</span> 2016-08-25T07:44:57Z <span class="pl-k">|</span> 141.142.209.5  <span class="pl-k">|</span>
-<span class="pl-k">|</span> node2            <span class="pl-k">|</span> ACTIVE <span class="pl-k">|</span> 2016-08-25T07:44:42Z <span class="pl-k">|</span> 141.142.209.3  <span class="pl-k">|</span>
-<span class="pl-k">|</span> node1            <span class="pl-k">|</span> ACTIVE <span class="pl-k">|</span> 2016-08-25T07:44:27Z <span class="pl-k">|</span> 141.142.209.49 <span class="pl-k">|</span>
-<span class="pl-k">|</span> node0            <span class="pl-k">|</span> ACTIVE <span class="pl-k">|</span> 2016-08-25T07:44:12Z <span class="pl-k">|</span> 141.142.209.33 <span class="pl-k">|</span>
-<span class="pl-k">|</span> manager1         <span class="pl-k">|</span> ACTIVE <span class="pl-k">|</span> 2016-08-25T07:43:57Z <span class="pl-k">|</span> 141.142.209.48 <span class="pl-k">|</span>
-<span class="pl-k">|</span> manager0         <span class="pl-k">|</span> ACTIVE <span class="pl-k">|</span> 2016-08-25T07:43:42Z <span class="pl-k">|</span> 141.142.209.34 <span class="pl-k">|</span>
-<span class="pl-k">|</span> consul0          <span class="pl-k">|</span> ACTIVE <span class="pl-k">|</span> 2016-08-25T07:43:12Z <span class="pl-k">|</span> 141.142.209.32 <span class="pl-k">|</span>
-<span class="pl-k">|</span> h3abionet16S     <span class="pl-k">|</span> ACTIVE <span class="pl-k">|</span> 2016-08-24T08:09:54Z <span class="pl-k">|</span> 141.142.209.30 <span class="pl-k">|</span>
-+------------------+--------+----------------------+----------------+</pre></div>
-
-<h3>
-<a id="provision-a-server" class="anchor" href="#provision-a-server" aria-hidden="true"><span aria-hidden="true" class="octicon octicon-link"></span></a>Provision a server</h3>
-
-<p>Then we can create a server/vm/instance in the cloud:</p>
-
-<div class="highlight highlight-source-shell"><pre>./rdna server create</pre></div>
-
-<h3>
-<a id="install-software-tools-and-dependencies" class="anchor" href="#install-software-tools-and-dependencies" aria-hidden="true"><span aria-hidden="true" class="octicon octicon-link"></span></a>Install software, tools and dependencies</h3>
-
-<div class="highlight highlight-source-shell"><pre>./rdna server install</pre></div>
-
-<h3>
-<a id="terminate-a-server" class="anchor" href="#terminate-a-server" aria-hidden="true"><span aria-hidden="true" class="octicon octicon-link"></span></a>Terminate a server</h3>
-
-<div class="highlight highlight-source-shell"><pre>./rdna server terminate</pre></div>
-
-<h3>
-<a id="upload-your-workflows-and-data" class="anchor" href="#upload-your-workflows-and-data" aria-hidden="true"><span aria-hidden="true" class="octicon octicon-link"></span></a>Upload your workflows and data</h3>
-
-<div class="highlight highlight-source-shell"><pre>./rdna workflow install</pre></div>
-
-<h3>
-<a id="run-it" class="anchor" href="#run-it" aria-hidden="true"><span aria-hidden="true" class="octicon octicon-link"></span></a>Run it</h3>
-
-<div class="highlight highlight-source-shell"><pre>./rdna workflow run</pre></div>
-
-<h2>
-<a id="contributing" class="anchor" href="#contributing" aria-hidden="true"><span aria-hidden="true" class="octicon octicon-link"></span></a>Contributing</h2>
-
-<p>H3ABioNet is a Pan African Bioinformatics network comprising 32 Bioinformatics 
-research groups distributed amongst 15 African countries and 2 partner Institutions 
-based in the USA which will support H3Africa researchers and their projects while 
-developing Bioinformatics capacity within Africa.</p>
-
-<h2>
-<a id="help-and-feedback" class="anchor" href="#help-and-feedback" aria-hidden="true"><span aria-hidden="true" class="octicon octicon-link"></span></a>Help and feedback</h2>
-
-<p>Engaging the community and lowering barriers for contributors is something we
-care a lot about. If you're not sure how you can get involved, feel free to 
-contact <a href="http://www.h3abionet.org/">H3ABioNet</a>.</p>
+<p><strong>automation</strong> - scripts and info on setting up an OpenStack VM, setting up the necessary docker files and running a CWL workflow.</p>
 
       <footer class="site-footer">
         <span class="site-footer-owner"><a href="https://github.com/h3abionet/h3abionet16S">H3abionet16s</a> is maintained by <a href="https://github.com/h3abionet">h3abionet</a>.</span>
