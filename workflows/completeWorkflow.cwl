@@ -17,14 +17,39 @@ inputs:
       items: "readPair.yml#FilePair"
   fastqMaxdiffs: int
   fastqMaxEe: float
+  minSize: int
+  otuRadiusPct: float
+  chimeraFastaDb: File
+  strandInfo: string
 
 outputs:
   #reports:
   #  type: Directory[]
   #  outputSource: runFastqc/report
-  mergedFastQs:
-     type: File[]
-     outputSource: merge/mergedFastQ
+ 
+ # mergedFastQs:
+ #    type: File[]
+ #    outputSource: merge/mergedFastQ
+
+  filteredFastaFiles:
+    type: File[]
+    outputSource: filter/filteredFasta
+
+  derepFastaFile:
+    type: File
+    outputSource: derep/derepFasta
+
+  sortedFastaFile:
+    type: File
+    outputSource: sort/sortedFasta
+  
+  otuFastaFile:
+    type: File
+    outputSource: otuPick/otuFasta
+
+  noChimeraFastaFile:
+    type: File
+    outputSource: chimeraCheck/chimeraCleanFasta  
 
 steps:
   arrayOfFilePairsToFileArray:
@@ -89,3 +114,35 @@ steps:
     scatter: [ fastqFile ]
     scatterMethod: dotproduct
     out: [ filteredFasta ]
+
+  # add strip primer step here 
+  
+  # add truncate length step here
+
+  derep:
+    run: uparseDerepWorkAround.cwl
+    in:
+      fastaFiles: filter/filteredFasta
+    out:  [ derepFasta ]
+
+  sort:
+    run: uparseSort.cwl
+    in: 
+      fastaFile: derep/derepFasta
+      minSize: minSize
+    out: [ sortedFasta ]
+
+  otuPick:
+    run: uparseOTUPick.cwl
+    in:
+      fastaFile: sort/sortedFasta
+      otuRadiusPct: otuRadiusPct
+    out: [ otuFasta ]
+
+  chimeraCheck:
+    run: uparseChimeraCheck.cwl
+    in:
+      fastaFile: otuPick/otuFasta
+      chimeraFastaDb: chimeraFastaDb
+      strandInfo: strandInfo
+    out: [ chimeraCleanFasta  ] 
