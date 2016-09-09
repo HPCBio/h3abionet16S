@@ -1,0 +1,541 @@
+C12.06102014.R2.D01.TCACGGGAGTTG_7575	k__Bacteria; p__Chloroflexi; c__Ktedonobacteria	1.00	2
+C12.06102014.R2.D01.TCACGGGAGTTG_7574	k__Bacteria; p__Proteobacteria; c__Deltaproteobacteria; o__Desulfuromonadales; f__Geobacteraceae; g__; s__	0.67	3
+C12.06102014.R2.D01.TCACGGGAGTTG_7577	Unassigned	1.00	1
+C12.06102014.R2.D01.TCACGGGAGTTG_7576	k__Bacteria; p__Acidobacteria; c__Acidobacteriia; o__Acidobacteriales; f__Acidobacteriaceae; g__; s__	1.00	3
+C12.06102014.R2.D01.TCACGGGAGTTG_7478	Unassigned	1.00	1
+C12.06102014.R2.D01.TCACGGGAGTTG_7479	k__Bacteria; p__Acidobacteria; c__TM1; o__; f__; g__; s__	1.00	3
+C12.06102014.R2.D01.TCACGGGAGTTG_7573	k__Bacteria; p__Proteobacteria; c__Alphaproteobacteria; o__; f__; g__; s__	0.67	3
+C12.06102014.R2.D01.TCACGGGAGTTG_7572	Unassigned	1.00	1
+C12.06102014.R2.D01.TCACGGGAGTTG_7474	k__Archaea; p__Crenarchaeota; c__MBGA; o__; f__; g__; s__	1.00	3
+C12.06102014.R2.D01.TCACGGGAGTTG_7475	k__Archaea; p__Crenarchaeota; c__Thaumarchaeota; o__Cenarchaeales; f__SAGMA-X; g__; s__	0.67	3
+C12.06102014.R2.D01.TCACGGGAGTTG_7476	Unassigned	1.00	1
+C12.06102014.R2.D01.TCACGGGAGTTG_7477	k__Bacteria; p__Proteobacteria; c__Gammaproteobacteria; o__Xanthomonadales; f__Sinobacteraceae; g__Steroidobacter; s__	1.00	3
+C12.06102014.R2.D01.TCACGGGAGTTG_7470	k__Bacteria; p__Proteobacteria; c__Gammaproteobacteria; o__Thiotrichales; f__Piscirickettsiaceae; g__; s__	1.00	3
+C12.06102014.R2.D01.TCACGGGAGTTG_7471	k__Bacteria; p__Chloroflexi; c__Ktedonobacteria; o__Thermogemmatisporales; f__Thermogemmatisporaceae; g__; s__	1.00	1
+C12.06102014.R2.D01.TCACGGGAGTTG_7472	k__Archaea; p__Crenarchaeota; c__MBGA; o__; f__; g__; s__	1.00	2
+C12.06102014.R2.D01.TCACGGGAGTTG_7473	Unassigned	1.00	1
+C12.06102014.R2.D01.TCACGGGAGTTG_7571	k__Bacteria; p__Acidobacteria; c__DA052; o__Ellin6513; f__; g__; s__	1.00	3
+C12.06102014.R2.D01.TCACGGGAGTTG_7570	Unassigned	1.00	1
+C12.06102014.R2.D01.TCACGGGAGTTG_7849	k__Bacteria; p__Bacteroidetes; c__Bacteroidia; o__Bacteroidales; f__; g__; s__	1.00	3
+C12.06102014.R2.D01.TCACGGGAGTTG_7848	k__Archaea; p__Crenarchaeota; c__MBGA; o__; f__; g__; s__	1.00	3
+C12.06102014.R2.D01.TCACGGGAGTTG_7924	k__Bacteria; p__Acidobacteria; c__Acidobacteria-5; o__; f__; g__; s__	1.00	3
+C12.06102014.R2.D01.TCACGGGAGTTG_7925	k__Bacteria; p__Acidobacteria; c__TM1; o__; f__; g__; s__	1.00	3
+C12.06102014.R2.D01.TCACGGGAGTTG_7922	k__Bacteria; p__Proteobacteria; c__Deltaproteobacteria; o__; f__; g__; s__	1.00	3
+C12.06102014.R2.D01.TCACGGGAGTTG_7923	Unassigned	1.00	1
+C12.06102014.R2.D01.TCACGGGAGTTG_7920	k__Archaea; p__Crenarchaeota; c__MBGA; o__; f__; g__; s__	1.00	3
+C12.06102014.R2.D01.TCACGGGAGTTG_7921	Unassigned	1.00	1
+C12.06102014.R2.D01.TCACGGGAGTTG_7841	Unassigned	1.00	1
+C12.06102014.R2.D01.TCACGGGAGTTG_7840	Unassigned	1.00	1
+C12.06102014.R2.D01.TCACGGGAGTTG_7843	k__Bacteria; p__Acidobacteria; c__TM1; o__; f__; g__; s__	1.00	3
+C12.06102014.R2.D01.TCACGGGAGTTG_7842	k__Bacteria; p__Chloroflexi; c__Ktedonobacteria	1.00	2
+C12.06102014.R2.D01.TCACGGGAGTTG_7845	k__Bacteria; p__Proteobacteria; c__Gammaproteobacteria; o__Xanthomonadales; f__Sinobacteraceae; g__; s__	1.00	3
+C12.06102014.R2.D01.TCACGGGAGTTG_7844	k__Bacteria; p__Proteobacteria; c__Deltaproteobacteria; o__Desulfuromonadales; f__Geobacteraceae; g__; s__	0.67	3
+C12.06102014.R2.D01.TCACGGGAGTTG_7847	k__Bacteria; p__Acidobacteria; c__Acidobacteriia; o__Acidobacteriales; f__Koribacteraceae; g__; s__	1.00	3
+C12.06102014.R2.D01.TCACGGGAGTTG_7846	k__Bacteria; p__Firmicutes; c__Bacilli; o__Bacillales; f__Bacillaceae	0.67	3
+C12.06102014.R2.D01.TCACGGGAGTTG_7579	k__Archaea; p__Crenarchaeota; c__MBGA; o__; f__; g__; s__	1.00	3
+C12.06102014.R2.D01.TCACGGGAGTTG_7578	Unassigned	1.00	1
+C12.06102014.R2.D01.TCACGGGAGTTG_7658	k__Bacteria; p__Acidobacteria; c__TM1; o__; f__; g__; s__	1.00	3
+C12.06102014.R2.D01.TCACGGGAGTTG_7659	k__Archaea; p__Crenarchaeota; c__MBGA; o__; f__; g__; s__	1.00	3
+C12.06102014.R2.D01.TCACGGGAGTTG_7713	k__Bacteria; p__Acidobacteria; c__Acidobacteriia; o__Acidobacteriales; f__Koribacteraceae; g__; s__	1.00	3
+C12.06102014.R2.D01.TCACGGGAGTTG_7712	k__Archaea; p__Crenarchaeota; c__MBGA; o__; f__; g__; s__	1.00	3
+C12.06102014.R2.D01.TCACGGGAGTTG_7715	k__Bacteria; p__Acidobacteria; c__Solibacteres; o__Solibacterales; f__; g__; s__	0.67	3
+C12.06102014.R2.D01.TCACGGGAGTTG_7714	k__Bacteria; p__Acidobacteria; c__TM1; o__; f__; g__; s__	1.00	1
+C12.06102014.R2.D01.TCACGGGAGTTG_7717	k__Bacteria; p__Acidobacteria; c__TM1; o__; f__; g__; s__	1.00	3
+C12.06102014.R2.D01.TCACGGGAGTTG_7716	k__Archaea; p__Crenarchaeota; c__MBGA; o__; f__; g__; s__	1.00	1
+C12.06102014.R2.D01.TCACGGGAGTTG_7650	Unassigned	1.00	1
+C12.06102014.R2.D01.TCACGGGAGTTG_7718	k__Bacteria; p__Acidobacteria; c__Acidobacteriia; o__Acidobacteriales; f__Koribacteraceae; g__; s__	1.00	3
+C12.06102014.R2.D01.TCACGGGAGTTG_7652	k__Bacteria; p__Acidobacteria; c__TM1; o__; f__; g__; s__	1.00	3
+C12.06102014.R2.D01.TCACGGGAGTTG_7653	Unassigned	1.00	1
+C12.06102014.R2.D01.TCACGGGAGTTG_7654	k__Bacteria; p__Acidobacteria; c__Solibacteres; o__Solibacterales; f__; g__; s__	1.00	3
+C12.06102014.R2.D01.TCACGGGAGTTG_7655	k__Bacteria; p__Acidobacteria; c__Solibacteres; o__Solibacterales; f__Solibacteraceae; g__Candidatus Solibacter; s__	1.00	3
+C12.06102014.R2.D01.TCACGGGAGTTG_7656	k__Bacteria; p__Proteobacteria; c__Alphaproteobacteria; o__Rhizobiales; f__Bradyrhizobiaceae; g__; s__	1.00	3
+C12.06102014.R2.D01.TCACGGGAGTTG_7657	k__Bacteria; p__Acidobacteria; c__DA052; o__Ellin6513; f__; g__; s__	1.00	3
+C12.06102014.R2.D01.TCACGGGAGTTG_7926	k__Bacteria; p__Chloroflexi; c__Ktedonobacteria	1.00	2
+C12.06102014.R2.D01.TCACGGGAGTTG_7788	k__Bacteria; p__Acidobacteria; c__DA052; o__Ellin6513; f__; g__; s__	1.00	3
+C12.06102014.R2.D01.TCACGGGAGTTG_7789	k__Archaea; p__Crenarchaeota; c__Thaumarchaeota; o__Nitrososphaerales; f__Nitrososphaeraceae; g__Candidatus Nitrososphaera; s__gargensis	0.67	3
+C12.06102014.R2.D01.TCACGGGAGTTG_7927	k__Archaea; p__Crenarchaeota; c__MBGA; o__; f__; g__; s__	1.00	3
+C12.06102014.R2.D01.TCACGGGAGTTG_7782	k__Bacteria; p__Acidobacteria; c__TM1; o__; f__; g__; s__	1.00	3
+C12.06102014.R2.D01.TCACGGGAGTTG_7783	Unassigned	1.00	1
+C12.06102014.R2.D01.TCACGGGAGTTG_7780	k__Bacteria; p__Acidobacteria; c__TM1; o__; f__; g__; s__	1.00	3
+C12.06102014.R2.D01.TCACGGGAGTTG_7781	k__Archaea; p__Crenarchaeota; c__Thaumarchaeota; o__Cenarchaeales; f__SAGMA-X; g__; s__	1.00	3
+C12.06102014.R2.D01.TCACGGGAGTTG_7786	k__Bacteria; p__Acidobacteria; c__Solibacteres; o__Solibacterales; f__Solibacteraceae; g__Candidatus Solibacter; s__	1.00	3
+C12.06102014.R2.D01.TCACGGGAGTTG_7787	k__Bacteria; p__Acidobacteria; c__TM1; o__; f__; g__; s__	1.00	3
+C12.06102014.R2.D01.TCACGGGAGTTG_7784	k__Archaea; p__Crenarchaeota; c__MBGA; o__; f__; g__; s__	1.00	3
+C12.06102014.R2.D01.TCACGGGAGTTG_7785	k__Bacteria; p__Proteobacteria; c__Alphaproteobacteria; o__Rhodospirillales; f__Acetobacteraceae; g__; s__	1.00	3
+C12.06102014.R2.D01.TCACGGGAGTTG_7629	k__Bacteria; p__Acidobacteria; c__TM1; o__; f__; g__; s__	1.00	3
+C12.06102014.R2.D01.TCACGGGAGTTG_7628	k__Bacteria; p__Proteobacteria; c__Deltaproteobacteria; o__Desulfuromonadales; f__Geobacteraceae; g__Geobacter; s__	1.00	3
+C12.06102014.R2.D01.TCACGGGAGTTG_7625	k__Bacteria; p__Chloroflexi; c__Ktedonobacteria; o__Thermogemmatisporales; f__Thermogemmatisporaceae; g__; s__	1.00	1
+C12.06102014.R2.D01.TCACGGGAGTTG_7624	Unassigned	1.00	1
+C12.06102014.R2.D01.TCACGGGAGTTG_7627	k__Archaea; p__Crenarchaeota; c__MBGA; o__; f__; g__; s__	1.00	3
+C12.06102014.R2.D01.TCACGGGAGTTG_7626	k__Bacteria; p__Acidobacteria; c__Solibacteres; o__Solibacterales; f__Solibacteraceae; g__Candidatus Solibacter; s__	1.00	3
+C12.06102014.R2.D01.TCACGGGAGTTG_7621	Unassigned	1.00	1
+C12.06102014.R2.D01.TCACGGGAGTTG_7620	k__Bacteria; p__Acidobacteria; c__Acidobacteriia; o__Acidobacteriales; f__Koribacteraceae; g__; s__	1.00	3
+C12.06102014.R2.D01.TCACGGGAGTTG_7623	k__Bacteria; p__Acidobacteria; c__TM1; o__; f__; g__; s__	1.00	3
+C12.06102014.R2.D01.TCACGGGAGTTG_7622	k__Bacteria; p__WPS-2; c__; o__; f__; g__; s__	1.00	3
+C12.06102014.R2.D01.TCACGGGAGTTG_7539	k__Bacteria; p__Chloroflexi; c__Ktedonobacteria; o__Ktedonobacterales; f__Ktedonobacteraceae; g__; s__	1.00	1
+C12.06102014.R2.D01.TCACGGGAGTTG_7538	k__Bacteria; p__Acidobacteria; c__Acidobacteria-6; o__iii1-15; f__; g__; s__	1.00	3
+C12.06102014.R2.D01.TCACGGGAGTTG_7531	k__Archaea; p__Crenarchaeota; c__MBGA; o__; f__; g__; s__	1.00	3
+C12.06102014.R2.D01.TCACGGGAGTTG_7530	k__Bacteria; p__Acidobacteria; c__TM1; o__; f__; g__; s__	1.00	3
+C12.06102014.R2.D01.TCACGGGAGTTG_7533	k__Bacteria; p__Acidobacteria; c__TM1; o__; f__; g__; s__	1.00	3
+C12.06102014.R2.D01.TCACGGGAGTTG_7532	Unassigned	1.00	1
+C12.06102014.R2.D01.TCACGGGAGTTG_7535	k__Bacteria; p__Acidobacteria; c__TM1; o__; f__; g__; s__	1.00	3
+C12.06102014.R2.D01.TCACGGGAGTTG_7534	k__Bacteria; p__Bacteroidetes; c__Sphingobacteriia; o__Sphingobacteriales; f__Sphingobacteriaceae; g__; s__	1.00	3
+C12.06102014.R2.D01.TCACGGGAGTTG_7537	k__Bacteria; p__Proteobacteria; c__Deltaproteobacteria; o__Desulfuromonadales; f__Geobacteraceae; g__Geobacter; s__	1.00	3
+C12.06102014.R2.D01.TCACGGGAGTTG_7536	k__Archaea; p__Crenarchaeota; c__MBGA; o__; f__; g__; s__	1.00	3
+C12.06102014.R2.D01.TCACGGGAGTTG_7928	k__Archaea; p__Crenarchaeota; c__MBGA; o__; f__; g__; s__	1.00	2
+C12.06102014.R2.D01.TCACGGGAGTTG_7929	Unassigned	1.00	1
+C12.06102014.R2.D01.TCACGGGAGTTG_7430	k__Bacteria; p__Acidobacteria; c__Acidobacteriia; o__Acidobacteriales; f__Koribacteraceae; g__; s__	1.00	3
+C12.06102014.R2.D01.TCACGGGAGTTG_7431	k__Archaea; p__Crenarchaeota; c__MBGA; o__NRP-J; f__; g__; s__	0.67	3
+C12.06102014.R2.D01.TCACGGGAGTTG_7432	k__Bacteria; p__Proteobacteria; c__Betaproteobacteria; o__; f__; g__; s__	0.67	3
+C12.06102014.R2.D01.TCACGGGAGTTG_7433	k__Bacteria; p__Acidobacteria; c__DA052; o__Ellin6513; f__; g__; s__	1.00	3
+C12.06102014.R2.D01.TCACGGGAGTTG_7434	Unassigned	1.00	1
+C12.06102014.R2.D01.TCACGGGAGTTG_7435	k__Bacteria; p__Actinobacteria; c__Actinobacteria; o__Actinomycetales; f__Intrasporangiaceae	1.00	3
+C12.06102014.R2.D01.TCACGGGAGTTG_7436	k__Bacteria; p__Acidobacteria; c__Acidobacteriia; o__Acidobacteriales; f__Koribacteraceae; g__; s__	1.00	3
+C12.06102014.R2.D01.TCACGGGAGTTG_7437	k__Bacteria; p__Acidobacteria; c__TM1; o__; f__; g__; s__	1.00	3
+C12.06102014.R2.D01.TCACGGGAGTTG_7438	k__Bacteria; p__Acidobacteria; c__TM1; o__; f__; g__; s__	1.00	3
+C12.06102014.R2.D01.TCACGGGAGTTG_7439	k__Bacteria; p__Planctomycetes; c__Planctomycetia; o__Gemmatales; f__Gemmataceae; g__; s__	1.00	3
+C12.06102014.R2.D01.TCACGGGAGTTG_7445	k__Bacteria; p__Acidobacteria; c__Acidobacteriia; o__Acidobacteriales; f__Acidobacteriaceae; g__Terriglobus; s__	0.67	3
+C12.06102014.R2.D01.TCACGGGAGTTG_7444	k__Bacteria; p__Cyanobacteria; c__4C0d-2; o__MLE1-12; f__; g__; s__	1.00	2
+C12.06102014.R2.D01.TCACGGGAGTTG_7447	k__Bacteria; p__Proteobacteria; c__Alphaproteobacteria; o__Rhizobiales; f__Hyphomicrobiaceae; g__Rhodoplanes; s__	0.67	3
+C12.06102014.R2.D01.TCACGGGAGTTG_7446	Unassigned	1.00	1
+C12.06102014.R2.D01.TCACGGGAGTTG_7441	k__Bacteria; p__Acidobacteria; c__TM1; o__; f__; g__; s__	1.00	3
+C12.06102014.R2.D01.TCACGGGAGTTG_7440	k__Bacteria; p__Acidobacteria; c__Acidobacteriia; o__Acidobacteriales; f__Koribacteraceae; g__; s__	1.00	3
+C12.06102014.R2.D01.TCACGGGAGTTG_7443	k__Bacteria; p__Acidobacteria; c__TM1; o__; f__; g__; s__	1.00	3
+C12.06102014.R2.D01.TCACGGGAGTTG_7442	k__Bacteria; p__Chloroflexi; c__Ktedonobacteria; o__Ktedonobacterales; f__Ktedonobacteraceae; g__; s__	1.00	2
+C12.06102014.R2.D01.TCACGGGAGTTG_7449	Unassigned	1.00	1
+C12.06102014.R2.D01.TCACGGGAGTTG_7448	k__Bacteria; p__Chloroflexi; c__Ktedonobacteria; o__Ktedonobacterales; f__Ktedonobacteraceae; g__; s__	1.00	1
+C12.06102014.R2.D01.TCACGGGAGTTG_7889	k__Bacteria; p__Chloroflexi; c__Ktedonobacteria; o__Thermogemmatisporales; f__Thermogemmatisporaceae; g__; s__	1.00	1
+C12.06102014.R2.D01.TCACGGGAGTTG_7888	Unassigned	1.00	1
+C12.06102014.R2.D01.TCACGGGAGTTG_7885	k__Archaea; p__Crenarchaeota; c__MBGA; o__; f__; g__; s__	1.00	3
+C12.06102014.R2.D01.TCACGGGAGTTG_7884	k__Bacteria; p__Proteobacteria; c__Alphaproteobacteria; o__Rhizobiales; f__Hyphomicrobiaceae; g__Rhodoplanes; s__	1.00	3
+C12.06102014.R2.D01.TCACGGGAGTTG_7887	Unassigned	1.00	1
+C12.06102014.R2.D01.TCACGGGAGTTG_7886	k__Bacteria; p__Chloroflexi; c__Ktedonobacteria; o__Thermogemmatisporales; f__Thermogemmatisporaceae; g__; s__	1.00	1
+C12.06102014.R2.D01.TCACGGGAGTTG_7881	k__Bacteria; p__Acidobacteria; c__TM1; o__; f__; g__; s__	1.00	3
+C12.06102014.R2.D01.TCACGGGAGTTG_7880	k__Bacteria; p__Proteobacteria; c__Deltaproteobacteria; o__Syntrophobacterales; f__Syntrophobacteraceae; g__Syntrophobacter; s__	1.00	3
+C12.06102014.R2.D01.TCACGGGAGTTG_7883	k__Bacteria; p__Acidobacteria; c__Acidobacteriia; o__Acidobacteriales; f__Koribacteraceae; g__; s__	1.00	3
+C12.06102014.R2.D01.TCACGGGAGTTG_7882	k__Archaea; p__Crenarchaeota; c__MBGA; o__; f__; g__; s__	1.00	3
+C12.06102014.R2.D01.TCACGGGAGTTG_7816	k__Bacteria; p__Bacteroidetes; c__Flavobacteriia; o__Flavobacteriales; f__Flavobacteriaceae; g__Flavobacterium; s__	1.00	3
+C12.06102014.R2.D01.TCACGGGAGTTG_7817	k__Bacteria; p__Acidobacteria; c__Acidobacteriia; o__Acidobacteriales; f__Koribacteraceae; g__; s__	1.00	3
+C12.06102014.R2.D01.TCACGGGAGTTG_7814	k__Bacteria; p__Acidobacteria; c__TM1; o__; f__; g__; s__	1.00	3
+C12.06102014.R2.D01.TCACGGGAGTTG_7815	Unassigned	1.00	1
+C12.06102014.R2.D01.TCACGGGAGTTG_7812	k__Bacteria; p__Acidobacteria; c__Solibacteres; o__Solibacterales; f__; g__; s__	1.00	3
+C12.06102014.R2.D01.TCACGGGAGTTG_7813	Unassigned	1.00	1
+C12.06102014.R2.D01.TCACGGGAGTTG_7810	k__Bacteria; p__Acidobacteria; c__Solibacteres; o__Solibacterales; f__Solibacteraceae; g__Candidatus Solibacter; s__	1.00	3
+C12.06102014.R2.D01.TCACGGGAGTTG_7811	k__Bacteria; p__Proteobacteria; c__Deltaproteobacteria; o__Syntrophobacterales; f__Syntrophobacteraceae; g__; s__	1.00	3
+C12.06102014.R2.D01.TCACGGGAGTTG_7818	k__Bacteria; p__Acidobacteria; c__Solibacteres; o__Solibacterales; f__; g__; s__	1.00	3
+C12.06102014.R2.D01.TCACGGGAGTTG_7819	Unassigned	1.00	1
+C12.06102014.R2.D01.TCACGGGAGTTG_7930	Unassigned	1.00	1
+C12.06102014.R2.D01.TCACGGGAGTTG_7661	k__Bacteria; p__Acidobacteria; c__Acidobacteriia; o__Acidobacteriales; f__Koribacteraceae; g__; s__	1.00	3
+C12.06102014.R2.D01.TCACGGGAGTTG_7660	k__Archaea; p__Crenarchaeota; c__MBGA; o__; f__; g__; s__	1.00	3
+C12.06102014.R2.D01.TCACGGGAGTTG_7663	k__Bacteria; p__Acidobacteria; c__Solibacteres; o__Solibacterales; f__Solibacteraceae; g__Candidatus Solibacter; s__	1.00	3
+C12.06102014.R2.D01.TCACGGGAGTTG_7662	k__Bacteria; p__Proteobacteria; c__Gammaproteobacteria; o__Legionellales; f__Coxiellaceae; g__Aquicella; s__	1.00	3
+C12.06102014.R2.D01.TCACGGGAGTTG_7665	k__Bacteria; p__Acidobacteria; c__Acidobacteriia; o__Acidobacteriales; f__Koribacteraceae; g__; s__	1.00	3
+C12.06102014.R2.D01.TCACGGGAGTTG_7664	k__Bacteria; p__Chloroflexi; c__Ktedonobacteria	1.00	2
+C12.06102014.R2.D01.TCACGGGAGTTG_7667	Unassigned	1.00	1
+C12.06102014.R2.D01.TCACGGGAGTTG_7666	k__Bacteria; p__Acidobacteria; c__Acidobacteriia; o__Acidobacteriales; f__Koribacteraceae; g__; s__	1.00	3
+C12.06102014.R2.D01.TCACGGGAGTTG_7669	k__Bacteria; p__Chloroflexi; c__Ktedonobacteria	1.00	2
+C12.06102014.R2.D01.TCACGGGAGTTG_7668	Unassigned	1.00	1
+C12.06102014.R2.D01.TCACGGGAGTTG_7582	k__Bacteria; p__Planctomycetes; c__Phycisphaerae; o__WD2101; f__; g__; s__	1.00	3
+C12.06102014.R2.D01.TCACGGGAGTTG_7583	k__Archaea; p__Crenarchaeota; c__MBGA; o__; f__; g__; s__	1.00	3
+C12.06102014.R2.D01.TCACGGGAGTTG_7584	k__Bacteria; p__Proteobacteria; c__Alphaproteobacteria; o__Rhizobiales; f__Aurantimonadaceae	0.67	3
+C12.06102014.R2.D01.TCACGGGAGTTG_7585	k__Bacteria; p__Chloroflexi; c__Ktedonobacteria; o__Thermogemmatisporales; f__Thermogemmatisporaceae; g__; s__	1.00	1
+C12.06102014.R2.D01.TCACGGGAGTTG_7586	k__Bacteria; p__Acidobacteria; c__TM1; o__; f__; g__; s__	1.00	3
+C12.06102014.R2.D01.TCACGGGAGTTG_7587	k__Bacteria; p__Bacteroidetes; c__[Saprospirae]; o__[Saprospirales]; f__Chitinophagaceae; g__; s__	1.00	3
+C12.06102014.R2.D01.TCACGGGAGTTG_7748	k__Bacteria; p__Chlorobi; c__Ignavibacteria; o__Ignavibacteriales	1.00	2
+C12.06102014.R2.D01.TCACGGGAGTTG_7749	Unassigned	1.00	1
+C12.06102014.R2.D01.TCACGGGAGTTG_7746	k__Bacteria; p__Acidobacteria; c__Acidobacteriia; o__Acidobacteriales; f__Koribacteraceae; g__; s__	1.00	3
+C12.06102014.R2.D01.TCACGGGAGTTG_7747	Unassigned	1.00	1
+C12.06102014.R2.D01.TCACGGGAGTTG_7744	Unassigned	1.00	1
+C12.06102014.R2.D01.TCACGGGAGTTG_7745	Unassigned	1.00	1
+C12.06102014.R2.D01.TCACGGGAGTTG_7742	k__Bacteria; p__Acidobacteria; c__Acidobacteriia; o__Acidobacteriales; f__Koribacteraceae; g__; s__	1.00	3
+C12.06102014.R2.D01.TCACGGGAGTTG_7743	k__Archaea; p__Crenarchaeota; c__Thaumarchaeota; o__Cenarchaeales; f__SAGMA-X; g__; s__	1.00	3
+C12.06102014.R2.D01.TCACGGGAGTTG_7740	k__Archaea; p__Crenarchaeota; c__MBGA; o__; f__; g__; s__	1.00	3
+C12.06102014.R2.D01.TCACGGGAGTTG_7741	k__Bacteria; p__Acidobacteria; c__Acidobacteriia; o__Acidobacteriales; f__Acidobacteriaceae; g__; s__	0.67	3
+C12.06102014.R2.D01.TCACGGGAGTTG_7409	k__Bacteria; p__Proteobacteria; c__Alphaproteobacteria; o__Rhodospirillales; f__Rhodospirillaceae; g__; s__	1.00	3
+C12.06102014.R2.D01.TCACGGGAGTTG_7408	k__Bacteria; p__Acidobacteria; c__Acidobacteriia; o__Acidobacteriales; f__Koribacteraceae; g__; s__	1.00	3
+C12.06102014.R2.D01.TCACGGGAGTTG_7564	k__Archaea; p__Crenarchaeota; c__MBGA; o__; f__; g__; s__	1.00	3
+C12.06102014.R2.D01.TCACGGGAGTTG_7565	k__Bacteria; p__Acidobacteria; c__Acidobacteriia; o__Acidobacteriales; f__Koribacteraceae; g__; s__	1.00	3
+C12.06102014.R2.D01.TCACGGGAGTTG_7562	k__Bacteria; p__Chloroflexi; c__Ktedonobacteria	1.00	2
+C12.06102014.R2.D01.TCACGGGAGTTG_7563	k__Archaea; p__Crenarchaeota; c__MBGA; o__; f__; g__; s__	1.00	3
+C12.06102014.R2.D01.TCACGGGAGTTG_7560	Unassigned	1.00	1
+C12.06102014.R2.D01.TCACGGGAGTTG_7561	Unassigned	1.00	1
+C12.06102014.R2.D01.TCACGGGAGTTG_7401	k__Archaea; p__Crenarchaeota; c__MBGA; o__; f__; g__; s__	1.00	2
+C12.06102014.R2.D01.TCACGGGAGTTG_7400	k__Bacteria; p__Bacteroidetes; c__[Saprospirae]; o__[Saprospirales]; f__Chitinophagaceae; g__; s__	1.00	3
+C12.06102014.R2.D01.TCACGGGAGTTG_7403	k__Archaea; p__Crenarchaeota; c__MBGA; o__; f__; g__; s__	1.00	3
+C12.06102014.R2.D01.TCACGGGAGTTG_7402	k__Bacteria; p__Chloroflexi; c__Ktedonobacteria; o__Thermogemmatisporales; f__Thermogemmatisporaceae; g__; s__	1.00	2
+C12.06102014.R2.D01.TCACGGGAGTTG_7405	k__Bacteria; p__Acidobacteria; c__Acidobacteriia; o__Acidobacteriales; f__Koribacteraceae; g__; s__	1.00	3
+C12.06102014.R2.D01.TCACGGGAGTTG_7404	k__Bacteria; p__Proteobacteria; c__Alphaproteobacteria; o__Rhizobiales; f__Hyphomicrobiaceae; g__Rhodoplanes; s__	0.67	3
+C12.06102014.R2.D01.TCACGGGAGTTG_7407	k__Archaea; p__Crenarchaeota; c__MBGA; o__; f__; g__; s__	1.00	3
+C12.06102014.R2.D01.TCACGGGAGTTG_7406	k__Bacteria; p__Acidobacteria; c__Acidobacteria-6; o__iii1-15; f__; g__; s__	1.00	3
+C12.06102014.R2.D01.TCACGGGAGTTG_7913	k__Bacteria; p__Acidobacteria; c__TM1; o__; f__; g__; s__	1.00	3
+C12.06102014.R2.D01.TCACGGGAGTTG_7912	k__Bacteria; p__Chloroflexi; c__Ktedonobacteria; o__Ktedonobacterales; f__Ktedonobacteraceae; g__; s__	1.00	1
+C12.06102014.R2.D01.TCACGGGAGTTG_7858	Unassigned	1.00	1
+C12.06102014.R2.D01.TCACGGGAGTTG_7859	k__Archaea; p__Crenarchaeota; c__MBGA; o__; f__; g__; s__	1.00	3
+C12.06102014.R2.D01.TCACGGGAGTTG_7837	k__Bacteria; p__Proteobacteria; c__Betaproteobacteria; o__Burkholderiales; f__Comamonadaceae; g__Ramlibacter; s__	0.67	3
+C12.06102014.R2.D01.TCACGGGAGTTG_7916	Unassigned	1.00	1
+C12.06102014.R2.D01.TCACGGGAGTTG_7915	k__Bacteria; p__Proteobacteria; c__Deltaproteobacteria; o__Syntrophobacterales; f__Syntrophobacteraceae; g__; s__	1.00	3
+C12.06102014.R2.D01.TCACGGGAGTTG_7914	Unassigned	1.00	1
+C12.06102014.R2.D01.TCACGGGAGTTG_7852	Unassigned	1.00	1
+C12.06102014.R2.D01.TCACGGGAGTTG_7853	k__Bacteria; p__Gemmatimonadetes; c__Gemmatimonadetes; o__Ellin5290; f__; g__; s__	1.00	3
+C12.06102014.R2.D01.TCACGGGAGTTG_7850	k__Bacteria; p__Chlorobi; c__; o__; f__; g__; s__	1.00	1
+C12.06102014.R2.D01.TCACGGGAGTTG_7851	Unassigned	1.00	1
+C12.06102014.R2.D01.TCACGGGAGTTG_7856	k__Archaea; p__Crenarchaeota; c__MBGA; o__; f__; g__; s__	1.00	3
+C12.06102014.R2.D01.TCACGGGAGTTG_7857	k__Bacteria; p__Proteobacteria; c__Gammaproteobacteria; o__Xanthomonadales; f__Sinobacteraceae; g__; s__	1.00	3
+C12.06102014.R2.D01.TCACGGGAGTTG_7854	k__Bacteria; p__Acidobacteria; c__TM1; o__; f__; g__; s__	1.00	3
+C12.06102014.R2.D01.TCACGGGAGTTG_7855	k__Bacteria; p__Acidobacteria; c__TM1; o__; f__; g__; s__	1.00	3
+C12.06102014.R2.D01.TCACGGGAGTTG_7702	k__Bacteria; p__Acidobacteria; c__[Chloracidobacteria]; o__PK29; f__; g__; s__	1.00	3
+C12.06102014.R2.D01.TCACGGGAGTTG_7703	k__Bacteria; p__Acidobacteria; c__TM1; o__; f__; g__; s__	1.00	3
+C12.06102014.R2.D01.TCACGGGAGTTG_7700	k__Bacteria; p__Acidobacteria; c__Acidobacteriia; o__Acidobacteriales; f__Koribacteraceae; g__Candidatus Koribacter; s__	0.67	3
+C12.06102014.R2.D01.TCACGGGAGTTG_7701	k__Bacteria; p__Acidobacteria; c__TM1; o__; f__; g__; s__	1.00	3
+C12.06102014.R2.D01.TCACGGGAGTTG_7706	k__Bacteria; p__Chloroflexi; c__Ktedonobacteria	1.00	2
+C12.06102014.R2.D01.TCACGGGAGTTG_7707	k__Bacteria; p__Verrucomicrobia; c__[Pedosphaerae]; o__[Pedosphaerales]; f__Ellin515; g__; s__	1.00	3
+C12.06102014.R2.D01.TCACGGGAGTTG_7704	Unassigned	1.00	1
+C12.06102014.R2.D01.TCACGGGAGTTG_7705	k__Bacteria; p__Acidobacteria; c__DA052; o__Ellin6513; f__; g__; s__	1.00	3
+C12.06102014.R2.D01.TCACGGGAGTTG_7708	k__Bacteria; p__Proteobacteria; c__Deltaproteobacteria; o__Desulfuromonadales; f__Geobacteraceae; g__Geobacter; s__	1.00	3
+C12.06102014.R2.D01.TCACGGGAGTTG_7709	Unassigned	1.00	1
+C12.06102014.R2.D01.TCACGGGAGTTG_7551	k__Archaea; p__Crenarchaeota; c__MBGA; o__; f__; g__; s__	1.00	3
+C12.06102014.R2.D01.TCACGGGAGTTG_7550	k__Archaea; p__Crenarchaeota; c__MBGA; o__; f__; g__; s__	1.00	3
+C12.06102014.R2.D01.TCACGGGAGTTG_7638	Unassigned	1.00	1
+C12.06102014.R2.D01.TCACGGGAGTTG_7639	k__Archaea; p__Crenarchaeota; c__MBGA; o__; f__; g__; s__	1.00	3
+C12.06102014.R2.D01.TCACGGGAGTTG_7636	k__Bacteria; p__FCPU426; c__; o__; f__; g__; s__	1.00	2
+C12.06102014.R2.D01.TCACGGGAGTTG_7637	k__Bacteria; p__Acidobacteria; c__Solibacteres; o__Solibacterales; f__Solibacteraceae; g__Candidatus Solibacter; s__	1.00	3
+C12.06102014.R2.D01.TCACGGGAGTTG_7634	Unassigned	1.00	1
+C12.06102014.R2.D01.TCACGGGAGTTG_7635	k__Bacteria; p__Acidobacteria; c__TM1; o__; f__; g__; s__	1.00	3
+C12.06102014.R2.D01.TCACGGGAGTTG_7632	k__Archaea; p__Crenarchaeota; c__MBGA; o__; f__; g__; s__	1.00	3
+C12.06102014.R2.D01.TCACGGGAGTTG_7559	k__Bacteria; p__Acidobacteria; c__Solibacteres; o__Solibacterales; f__Solibacteraceae; g__Candidatus Solibacter; s__	1.00	3
+C12.06102014.R2.D01.TCACGGGAGTTG_7630	k__Bacteria; p__Acidobacteria; c__TM1; o__; f__; g__; s__	1.00	3
+C12.06102014.R2.D01.TCACGGGAGTTG_7631	Unassigned	1.00	1
+C12.06102014.R2.D01.TCACGGGAGTTG_7683	k__Bacteria; p__Acidobacteria; c__TM1; o__; f__; g__; s__	1.00	3
+C12.06102014.R2.D01.TCACGGGAGTTG_7682	k__Bacteria; p__Proteobacteria; c__Deltaproteobacteria; o__Desulfuromonadales; f__Geobacteraceae; g__; s__	0.67	3
+C12.06102014.R2.D01.TCACGGGAGTTG_7681	Unassigned	1.00	1
+C12.06102014.R2.D01.TCACGGGAGTTG_7680	k__Bacteria; p__Chloroflexi; c__Ktedonobacteria	1.00	2
+C12.06102014.R2.D01.TCACGGGAGTTG_7687	k__Bacteria; p__Proteobacteria; c__Deltaproteobacteria; o__Desulfuromonadales; f__Pelobacteraceae; g__; s__	0.67	3
+C12.06102014.R2.D01.TCACGGGAGTTG_7686	k__Bacteria; p__Cyanobacteria; c__Nostocophycideae; o__Nostocales; f__Nostocaceae; g__; s__	0.67	3
+C12.06102014.R2.D01.TCACGGGAGTTG_7685	k__Archaea; p__Crenarchaeota; c__MBGA; o__; f__; g__; s__	1.00	3
+C12.06102014.R2.D01.TCACGGGAGTTG_7684	k__Bacteria; p__Acidobacteria; c__[Chloracidobacteria]; o__RB41; f__Ellin6075; g__; s__	1.00	3
+C12.06102014.R2.D01.TCACGGGAGTTG_7522	k__Bacteria; p__Verrucomicrobia; c__[Spartobacteria]; o__[Chthoniobacterales]; f__[Chthoniobacteraceae]; g__DA101; s__	1.00	3
+C12.06102014.R2.D01.TCACGGGAGTTG_7523	k__Bacteria; p__Proteobacteria; c__Deltaproteobacteria; o__Syntrophobacterales; f__Syntrophobacteraceae; g__; s__	1.00	3
+C12.06102014.R2.D01.TCACGGGAGTTG_7520	Unassigned	1.00	1
+C12.06102014.R2.D01.TCACGGGAGTTG_7688	k__Bacteria; p__Acidobacteria; c__Acidobacteriia; o__Acidobacteriales; f__Koribacteraceae; g__; s__	1.00	3
+C12.06102014.R2.D01.TCACGGGAGTTG_7526	k__Bacteria; p__Acidobacteria; c__Acidobacteriia; o__Acidobacteriales; f__Koribacteraceae; g__; s__	1.00	3
+C12.06102014.R2.D01.TCACGGGAGTTG_7527	k__Bacteria; p__Cyanobacteria; c__Nostocophycideae; o__Nostocales; f__Nostocaceae; g__; s__	0.67	3
+C12.06102014.R2.D01.TCACGGGAGTTG_7524	k__Archaea; p__Crenarchaeota; c__MBGA; o__; f__; g__; s__	1.00	3
+C12.06102014.R2.D01.TCACGGGAGTTG_7525	Unassigned	1.00	1
+C12.06102014.R2.D01.TCACGGGAGTTG_7931	k__Bacteria; p__WPS-2; c__; o__; f__; g__; s__	1.00	3
+C12.06102014.R2.D01.TCACGGGAGTTG_7839	k__Bacteria; p__Chloroflexi; c__Ktedonobacteria	1.00	2
+C12.06102014.R2.D01.TCACGGGAGTTG_7633	k__Bacteria; p__Proteobacteria; c__Gammaproteobacteria; o__Xanthomonadales; f__Xanthomonadaceae; g__; s__	1.00	3
+C12.06102014.R2.D01.TCACGGGAGTTG_7580	Unassigned	1.00	1
+C12.06102014.R2.D01.TCACGGGAGTTG_7581	k__Bacteria; p__Acidobacteria; c__DA052; o__Ellin6513; f__; g__; s__	1.00	3
+C12.06102014.R2.D01.TCACGGGAGTTG_7456	k__Bacteria; p__Verrucomicrobia; c__[Pedosphaerae]; o__[Pedosphaerales]; f__Ellin515; g__; s__	1.00	3
+C12.06102014.R2.D01.TCACGGGAGTTG_7457	k__Bacteria; p__Acidobacteria; c__Acidobacteriia; o__Acidobacteriales; f__Koribacteraceae; g__; s__	1.00	3
+C12.06102014.R2.D01.TCACGGGAGTTG_7454	k__Bacteria; p__Bacteroidetes; c__Bacteroidia; o__Bacteroidales; f__; g__; s__	1.00	3
+C12.06102014.R2.D01.TCACGGGAGTTG_7455	k__Bacteria; p__Proteobacteria; c__Alphaproteobacteria; o__Rhizobiales; f__Hyphomicrobiaceae; g__Rhodoplanes; s__	0.67	3
+C12.06102014.R2.D01.TCACGGGAGTTG_7452	k__Bacteria; p__Acidobacteria; c__TM1; o__; f__; g__; s__	1.00	3
+C12.06102014.R2.D01.TCACGGGAGTTG_7453	k__Bacteria; p__Chloroflexi; c__Ktedonobacteria; o__Ktedonobacterales; f__Ktedonobacteraceae; g__; s__	1.00	1
+C12.06102014.R2.D01.TCACGGGAGTTG_7450	k__Bacteria; p__Acidobacteria; c__Solibacteres; o__Solibacterales; f__; g__; s__	1.00	3
+C12.06102014.R2.D01.TCACGGGAGTTG_7451	Unassigned	1.00	1
+C12.06102014.R2.D01.TCACGGGAGTTG_7528	k__Bacteria; p__Acidobacteria; c__TM1; o__; f__; g__; s__	1.00	3
+C12.06102014.R2.D01.TCACGGGAGTTG_7458	k__Archaea; p__Crenarchaeota; c__MBGA; o__; f__; g__; s__	1.00	2
+C12.06102014.R2.D01.TCACGGGAGTTG_7459	k__Bacteria; p__Acidobacteria; c__Solibacteres; o__Solibacterales; f__; g__; s__	0.67	3
+C12.06102014.R2.D01.TCACGGGAGTTG_7529	Unassigned	1.00	1
+C12.06102014.R2.D01.TCACGGGAGTTG_7898	k__Bacteria; p__Cyanobacteria; c__Synechococcophycideae; o__Pseudanabaenales; f__Pseudanabaenaceae; g__Leptolyngbya; s__frigida	0.67	3
+C12.06102014.R2.D01.TCACGGGAGTTG_7899	k__Bacteria; p__Proteobacteria; c__Deltaproteobacteria; o__Desulfuromonadales; f__Geobacteraceae; g__Geobacter; s__	1.00	3
+C12.06102014.R2.D01.TCACGGGAGTTG_7896	k__Bacteria; p__Acidobacteria; c__TM1; o__; f__; g__; s__	1.00	3
+C12.06102014.R2.D01.TCACGGGAGTTG_7897	k__Archaea; p__Crenarchaeota; c__MBGA; o__; f__; g__; s__	1.00	3
+C12.06102014.R2.D01.TCACGGGAGTTG_7894	k__Archaea; p__Crenarchaeota; c__Thaumarchaeota; o__Cenarchaeales; f__SAGMA-X; g__; s__	0.67	3
+C12.06102014.R2.D01.TCACGGGAGTTG_7895	k__Bacteria; p__Chloroflexi; c__Ktedonobacteria	1.00	2
+C12.06102014.R2.D01.TCACGGGAGTTG_7892	k__Bacteria; p__Acidobacteria; c__Solibacteres; o__Solibacterales; f__Solibacteraceae; g__Candidatus Solibacter; s__	1.00	3
+C12.06102014.R2.D01.TCACGGGAGTTG_7893	k__Bacteria; p__Acidobacteria; c__TM1; o__; f__; g__; s__	1.00	3
+C12.06102014.R2.D01.TCACGGGAGTTG_7890	Unassigned	1.00	1
+C12.06102014.R2.D01.TCACGGGAGTTG_7891	Unassigned	1.00	1
+C12.06102014.R2.D01.TCACGGGAGTTG_7823	Unassigned	1.00	1
+C12.06102014.R2.D01.TCACGGGAGTTG_7822	k__Bacteria; p__Chloroflexi; c__Ktedonobacteria	1.00	2
+C12.06102014.R2.D01.TCACGGGAGTTG_7821	k__Bacteria; p__Proteobacteria; c__Deltaproteobacteria; o__Desulfuromonadales; f__Geobacteraceae; g__Geobacter; s__	1.00	3
+C12.06102014.R2.D01.TCACGGGAGTTG_7820	k__Bacteria; p__Acidobacteria; c__Acidobacteriia; o__Acidobacteriales; f__Koribacteraceae; g__; s__	1.00	3
+C12.06102014.R2.D01.TCACGGGAGTTG_7827	k__Bacteria; p__Acidobacteria; c__Solibacteres; o__Solibacterales; f__Solibacteraceae; g__; s__	0.67	3
+C12.06102014.R2.D01.TCACGGGAGTTG_7826	Unassigned	1.00	1
+C12.06102014.R2.D01.TCACGGGAGTTG_7825	k__Bacteria; p__Proteobacteria; c__Deltaproteobacteria; o__Syntrophobacterales; f__Syntrophobacteraceae; g__; s__	1.00	3
+C12.06102014.R2.D01.TCACGGGAGTTG_7824	Unassigned	1.00	1
+C12.06102014.R2.D01.TCACGGGAGTTG_7829	k__Bacteria; p__Acidobacteria; c__TM1; o__; f__; g__; s__	1.00	3
+C12.06102014.R2.D01.TCACGGGAGTTG_7828	k__Bacteria; p__Chloroflexi; c__Ktedonobacteria; o__Ktedonobacterales; f__Ktedonobacteraceae; g__; s__	1.00	1
+C12.06102014.R2.D01.TCACGGGAGTTG_7689	k__Bacteria; p__Chloroflexi; c__Ktedonobacteria	1.00	2
+C12.06102014.R2.D01.TCACGGGAGTTG_7711	k__Bacteria; p__Bacteroidetes; c__Sphingobacteriia; o__Sphingobacteriales; f__Sphingobacteriaceae; g__Pedobacter; s__	1.00	3
+C12.06102014.R2.D01.TCACGGGAGTTG_7521	k__Bacteria; p__Acidobacteria; c__Solibacteres; o__Solibacterales; f__Solibacteraceae; g__Candidatus Solibacter; s__	1.00	3
+C12.06102014.R2.D01.TCACGGGAGTTG_7710	Unassigned	1.00	1
+C12.06102014.R2.D01.TCACGGGAGTTG_7719	Unassigned	1.00	1
+C12.06102014.R2.D01.TCACGGGAGTTG_7651	k__Bacteria; p__Proteobacteria; c__Deltaproteobacteria; o__Syntrophobacterales; f__Syntrophobacteraceae; g__; s__	1.00	3
+C12.06102014.R2.D01.TCACGGGAGTTG_7672	Unassigned	1.00	1
+C12.06102014.R2.D01.TCACGGGAGTTG_7673	k__Bacteria; p__Acidobacteria; c__Solibacteres; o__Solibacterales; f__Solibacteraceae; g__Candidatus Solibacter; s__	1.00	3
+C12.06102014.R2.D01.TCACGGGAGTTG_7670	Unassigned	1.00	1
+C12.06102014.R2.D01.TCACGGGAGTTG_7671	k__Bacteria; p__Proteobacteria; c__Gammaproteobacteria; o__Thiotrichales; f__Piscirickettsiaceae; g__; s__	1.00	3
+C12.06102014.R2.D01.TCACGGGAGTTG_7676	k__Bacteria; p__Cyanobacteria; c__Nostocophycideae; o__Nostocales; f__Nostocaceae; g__; s__	0.67	3
+C12.06102014.R2.D01.TCACGGGAGTTG_7677	k__Bacteria; p__Proteobacteria; c__Alphaproteobacteria; o__Rhizobiales; f__Methylocystaceae; g__; s__	0.67	3
+C12.06102014.R2.D01.TCACGGGAGTTG_7674	k__Bacteria; p__Acidobacteria; c__TM1; o__; f__; g__; s__	1.00	3
+C12.06102014.R2.D01.TCACGGGAGTTG_7675	k__Bacteria; p__Acidobacteria; c__Solibacteres; o__Solibacterales; f__Solibacteraceae; g__; s__	1.00	3
+C12.06102014.R2.D01.TCACGGGAGTTG_7678	k__Bacteria; p__Acidobacteria; c__DA052; o__Ellin6513; f__; g__; s__	1.00	1
+C12.06102014.R2.D01.TCACGGGAGTTG_7679	k__Bacteria; p__Acidobacteria; c__Solibacteres; o__Solibacterales; f__; g__; s__	1.00	3
+C12.06102014.R2.D01.TCACGGGAGTTG_7779	k__Bacteria; p__Acidobacteria; c__TM1; o__; f__; g__; s__	1.00	3
+C12.06102014.R2.D01.TCACGGGAGTTG_7778	k__Bacteria; p__Proteobacteria; c__Betaproteobacteria; o__Ellin6067; f__; g__; s__	1.00	3
+C12.06102014.R2.D01.TCACGGGAGTTG_7411	k__Archaea; p__Crenarchaeota; c__MBGA; o__; f__; g__; s__	1.00	3
+C12.06102014.R2.D01.TCACGGGAGTTG_7773	Unassigned	1.00	1
+C12.06102014.R2.D01.TCACGGGAGTTG_7772	k__Bacteria; p__Proteobacteria; c__Deltaproteobacteria; o__Syntrophobacterales; f__Syntrophobacteraceae; g__; s__	1.00	3
+C12.06102014.R2.D01.TCACGGGAGTTG_7771	k__Bacteria; p__Actinobacteria; c__Actinobacteria; o__Actinomycetales; f__Thermomonosporaceae; g__Actinoallomurus	0.67	3
+C12.06102014.R2.D01.TCACGGGAGTTG_7770	k__Bacteria; p__Proteobacteria; c__Alphaproteobacteria; o__Rhizobiales; f__Hyphomicrobiaceae; g__Rhodoplanes; s__	0.67	3
+C12.06102014.R2.D01.TCACGGGAGTTG_7777	k__Bacteria; p__Acidobacteria; c__Acidobacteriia; o__Acidobacteriales; f__Acidobacteriaceae; g__; s__	0.67	3
+C12.06102014.R2.D01.TCACGGGAGTTG_7776	k__Bacteria; p__Verrucomicrobia; c__[Pedosphaerae]; o__[Pedosphaerales]; f__[Pedosphaeraceae]; g__Pedosphaera; s__	0.67	3
+C12.06102014.R2.D01.TCACGGGAGTTG_7775	k__Bacteria; p__Bacteroidetes; c__Cytophagia; o__Cytophagales; f__Cytophagaceae; g__; s__	1.00	3
+C12.06102014.R2.D01.TCACGGGAGTTG_7774	Unassigned	1.00	1
+C12.06102014.R2.D01.TCACGGGAGTTG_7481	Unassigned	1.00	1
+C12.06102014.R2.D01.TCACGGGAGTTG_7480	Unassigned	1.00	1
+C12.06102014.R2.D01.TCACGGGAGTTG_7483	k__Archaea; p__Crenarchaeota; c__MBGA; o__; f__; g__; s__	1.00	3
+C12.06102014.R2.D01.TCACGGGAGTTG_7482	k__Bacteria; p__Acidobacteria; c__TM1; o__; f__; g__; s__	1.00	3
+C12.06102014.R2.D01.TCACGGGAGTTG_7485	Unassigned	1.00	1
+C12.06102014.R2.D01.TCACGGGAGTTG_7484	Unassigned	1.00	1
+C12.06102014.R2.D01.TCACGGGAGTTG_7487	k__Bacteria; p__Acidobacteria; c__Solibacteres; o__Solibacterales; f__Solibacteraceae; g__; s__	1.00	3
+C12.06102014.R2.D01.TCACGGGAGTTG_7486	k__Bacteria; p__Chloroflexi; c__Ktedonobacteria; o__Thermogemmatisporales; f__Thermogemmatisporaceae; g__; s__	1.00	1
+C12.06102014.R2.D01.TCACGGGAGTTG_7489	k__Archaea; p__Crenarchaeota; c__MBGA; o__; f__; g__; s__	1.00	3
+C12.06102014.R2.D01.TCACGGGAGTTG_7488	k__Bacteria; p__Chlorobi; c__; o__; f__; g__; s__	1.00	3
+C12.06102014.R2.D01.TCACGGGAGTTG_7762	k__Bacteria; p__Chloroflexi; c__Ktedonobacteria; o__Ktedonobacterales; f__Ktedonobacteraceae; g__; s__	1.00	1
+C12.06102014.R2.D01.TCACGGGAGTTG_7553	k__Archaea; p__Crenarchaeota; c__Thaumarchaeota; o__Cenarchaeales; f__SAGMA-X; g__; s__	1.00	3
+C12.06102014.R2.D01.TCACGGGAGTTG_7552	k__Bacteria; p__Acidobacteria; c__Solibacteres; o__Solibacterales; f__Solibacteraceae; g__Candidatus Solibacter; s__	1.00	3
+C12.06102014.R2.D01.TCACGGGAGTTG_7418	k__Bacteria; p__Acidobacteria; c__TM1; o__; f__; g__; s__	1.00	3
+C12.06102014.R2.D01.TCACGGGAGTTG_7419	k__Bacteria; p__Acidobacteria; c__TM1; o__; f__; g__; s__	1.00	3
+C12.06102014.R2.D01.TCACGGGAGTTG_7557	k__Archaea; p__Crenarchaeota; c__MBGA; o__; f__; g__; s__	1.00	3
+C12.06102014.R2.D01.TCACGGGAGTTG_7556	k__Bacteria; p__Chloroflexi; c__Anaerolineae; o__Caldilineales; f__Caldilineaceae; g__; s__	1.00	1
+C12.06102014.R2.D01.TCACGGGAGTTG_7555	Unassigned	1.00	1
+C12.06102014.R2.D01.TCACGGGAGTTG_7554	k__Bacteria; p__Chlamydiae; c__Chlamydiia; o__; f__; g__; s__	1.00	1
+C12.06102014.R2.D01.TCACGGGAGTTG_7412	k__Bacteria; p__Proteobacteria; c__Deltaproteobacteria; o__Desulfuromonadales; f__Geobacteraceae; g__; s__	0.67	3
+C12.06102014.R2.D01.TCACGGGAGTTG_7413	k__Bacteria; p__Proteobacteria; c__Deltaproteobacteria; o__Syntrophobacterales; f__Syntrophobacteraceae; g__; s__	1.00	3
+C12.06102014.R2.D01.TCACGGGAGTTG_7410	k__Bacteria; p__Proteobacteria; c__Alphaproteobacteria; o__Rhizobiales; f__Rhizobiaceae; g__Agrobacterium; s__vitis	0.67	3
+C12.06102014.R2.D01.TCACGGGAGTTG_7558	k__Bacteria; p__Acidobacteria; c__Solibacteres; o__Solibacterales; f__Solibacteraceae; g__Candidatus Solibacter; s__	1.00	3
+C12.06102014.R2.D01.TCACGGGAGTTG_7416	Unassigned	1.00	1
+C12.06102014.R2.D01.TCACGGGAGTTG_7417	k__Archaea; p__Crenarchaeota; c__MBGA; o__; f__; g__; s__	1.00	3
+C12.06102014.R2.D01.TCACGGGAGTTG_7414	Unassigned	1.00	1
+C12.06102014.R2.D01.TCACGGGAGTTG_7415	k__Bacteria; p__Chloroflexi; c__Ktedonobacteria	1.00	2
+C12.06102014.R2.D01.TCACGGGAGTTG_7908	k__Archaea; p__Crenarchaeota; c__MBGA; o__; f__; g__; s__	1.00	3
+C12.06102014.R2.D01.TCACGGGAGTTG_7909	k__Bacteria; p__Chloroflexi; c__Ktedonobacteria; o__Thermogemmatisporales; f__Thermogemmatisporaceae; g__; s__	1.00	2
+C12.06102014.R2.D01.TCACGGGAGTTG_7904	k__Bacteria; p__Chloroflexi; c__Ktedonobacteria	1.00	2
+C12.06102014.R2.D01.TCACGGGAGTTG_7905	k__Archaea; p__Crenarchaeota; c__MBGA; o__; f__; g__; s__	1.00	1
+C12.06102014.R2.D01.TCACGGGAGTTG_7906	k__Bacteria; p__Verrucomicrobia; c__[Pedosphaerae]; o__[Pedosphaerales]; f__; g__; s__	0.67	3
+C12.06102014.R2.D01.TCACGGGAGTTG_7907	Unassigned	1.00	1
+C12.06102014.R2.D01.TCACGGGAGTTG_7900	k__Bacteria; p__Bacteroidetes; c__[Saprospirae]; o__[Saprospirales]; f__Chitinophagaceae; g__Chitinophaga; s__	0.67	3
+C12.06102014.R2.D01.TCACGGGAGTTG_7901	Unassigned	1.00	1
+C12.06102014.R2.D01.TCACGGGAGTTG_7902	k__Bacteria; p__Acidobacteria; c__Solibacteres; o__Solibacterales; f__Solibacteraceae; g__Candidatus Solibacter; s__	1.00	3
+C12.06102014.R2.D01.TCACGGGAGTTG_7903	k__Bacteria; p__Cyanobacteria; c__Nostocophycideae; o__Nostocales; f__Nostocaceae; g__; s__	0.67	3
+C12.06102014.R2.D01.TCACGGGAGTTG_7399	k__Bacteria; p__Acidobacteria; c__TM1; o__; f__; g__; s__	1.00	3
+C12.06102014.R2.D01.TCACGGGAGTTG_7398	k__Bacteria; p__Acidobacteria; c__Acidobacteriia; o__Acidobacteriales; f__Koribacteraceae; g__; s__	1.00	3
+C12.06102014.R2.D01.TCACGGGAGTTG_7395	k__Bacteria; p__Acidobacteria; c__TM1; o__; f__; g__; s__	1.00	3
+C12.06102014.R2.D01.TCACGGGAGTTG_7394	k__Archaea; p__Crenarchaeota; c__MBGA; o__; f__; g__; s__	1.00	3
+C12.06102014.R2.D01.TCACGGGAGTTG_7397	k__Bacteria; p__Chloroflexi; c__Ktedonobacteria; o__; f__; g__; s__	1.00	1
+C12.06102014.R2.D01.TCACGGGAGTTG_7396	k__Bacteria; p__Acidobacteria; c__Solibacteres; o__Solibacterales; f__; g__; s__	1.00	3
+C12.06102014.R2.D01.TCACGGGAGTTG_7867	k__Bacteria; p__Acidobacteria; c__TM1; o__; f__; g__; s__	1.00	3
+C12.06102014.R2.D01.TCACGGGAGTTG_7866	k__Bacteria; p__Chloroflexi; c__Ktedonobacteria; o__Ktedonobacterales; f__Ktedonobacteraceae; g__; s__	1.00	1
+C12.06102014.R2.D01.TCACGGGAGTTG_7865	k__Bacteria; p__Chloroflexi; c__Ktedonobacteria	1.00	2
+C12.06102014.R2.D01.TCACGGGAGTTG_7864	k__Archaea; p__Crenarchaeota; c__MBGA; o__; f__; g__; s__	1.00	3
+C12.06102014.R2.D01.TCACGGGAGTTG_7863	Unassigned	1.00	1
+C12.06102014.R2.D01.TCACGGGAGTTG_7862	k__Bacteria; p__Proteobacteria; c__Gammaproteobacteria; o__Xanthomonadales; f__Sinobacteraceae; g__Steroidobacter; s__	1.00	3
+C12.06102014.R2.D01.TCACGGGAGTTG_7861	k__Bacteria; p__Acidobacteria; c__DA052; o__Ellin6513; f__; g__; s__	1.00	3
+C12.06102014.R2.D01.TCACGGGAGTTG_7860	Unassigned	1.00	1
+C12.06102014.R2.D01.TCACGGGAGTTG_7869	k__Bacteria; p__Actinobacteria; c__Thermoleophilia; o__Gaiellales; f__Gaiellaceae; g__; s__	1.00	3
+C12.06102014.R2.D01.TCACGGGAGTTG_7868	k__Bacteria; p__Bacteroidetes; c__Cytophagia; o__Cytophagales; f__Cytophagaceae; g__; s__	1.00	3
+C12.06102014.R2.D01.TCACGGGAGTTG_7739	k__Bacteria; p__Proteobacteria; c__Alphaproteobacteria; o__Rhodospirillales; f__Rhodospirillaceae; g__; s__	1.00	3
+C12.06102014.R2.D01.TCACGGGAGTTG_7738	k__Bacteria; p__Proteobacteria; c__Deltaproteobacteria; o__Desulfuromonadales; f__Geobacteraceae; g__Geobacter; s__	1.00	3
+C12.06102014.R2.D01.TCACGGGAGTTG_7737	k__Archaea; p__Crenarchaeota; c__MBGA; o__; f__; g__; s__	1.00	3
+C12.06102014.R2.D01.TCACGGGAGTTG_7736	k__Bacteria; p__Bacteroidetes; c__Bacteroidia; o__Bacteroidales; f__; g__; s__	1.00	3
+C12.06102014.R2.D01.TCACGGGAGTTG_7735	k__Bacteria; p__Chloroflexi; c__Ktedonobacteria; o__Ktedonobacterales; f__Ktedonobacteraceae; g__; s__	1.00	1
+C12.06102014.R2.D01.TCACGGGAGTTG_7734	k__Bacteria; p__Acidobacteria; c__Solibacteres; o__Solibacterales; f__Solibacteraceae; g__Candidatus Solibacter; s__	1.00	3
+C12.06102014.R2.D01.TCACGGGAGTTG_7733	Unassigned	1.00	1
+C12.06102014.R2.D01.TCACGGGAGTTG_7732	k__Bacteria; p__Acidobacteria; c__TM1; o__; f__; g__; s__	1.00	2
+C12.06102014.R2.D01.TCACGGGAGTTG_7731	k__Bacteria; p__Proteobacteria; c__Alphaproteobacteria; o__Rhizobiales; f__Phyllobacteriaceae; g__Mesorhizobium; s__	0.67	3
+C12.06102014.R2.D01.TCACGGGAGTTG_7730	k__Bacteria; p__Acidobacteria; c__Solibacteres; o__Solibacterales; f__Solibacteraceae; g__Candidatus Solibacter; s__	1.00	3
+C12.06102014.R2.D01.TCACGGGAGTTG_7609	k__Bacteria; p__Acidobacteria; c__TM1; o__; f__; g__; s__	1.00	3
+C12.06102014.R2.D01.TCACGGGAGTTG_7608	k__Bacteria; p__Chloroflexi; c__Ktedonobacteria	1.00	2
+C12.06102014.R2.D01.TCACGGGAGTTG_7603	k__Bacteria; p__Acidobacteria; c__Solibacteres; o__Solibacterales; f__Solibacteraceae; g__Candidatus Solibacter; s__	1.00	3
+C12.06102014.R2.D01.TCACGGGAGTTG_7602	k__Bacteria; p__Acidobacteria; c__Acidobacteriia; o__Acidobacteriales; f__Koribacteraceae; g__; s__	1.00	3
+C12.06102014.R2.D01.TCACGGGAGTTG_7601	k__Archaea; p__Crenarchaeota; c__MBGA; o__; f__; g__; s__	1.00	3
+C12.06102014.R2.D01.TCACGGGAGTTG_7600	k__Bacteria; p__Acidobacteria; c__Acidobacteriia; o__Acidobacteriales; f__Koribacteraceae; g__; s__	1.00	3
+C12.06102014.R2.D01.TCACGGGAGTTG_7607	Unassigned	1.00	1
+C12.06102014.R2.D01.TCACGGGAGTTG_7606	k__Bacteria; p__Acidobacteria; c__TM1; o__; f__; g__; s__	1.00	3
+C12.06102014.R2.D01.TCACGGGAGTTG_7605	k__Bacteria; p__Cyanobacteria; c__4C0d-2; o__MLE1-12; f__; g__; s__	1.00	3
+C12.06102014.R2.D01.TCACGGGAGTTG_7604	k__Bacteria; p__Acidobacteria; c__TM1; o__; f__; g__; s__	1.00	3
+C12.06102014.R2.D01.TCACGGGAGTTG_7566	Unassigned	1.00	1
+C12.06102014.R2.D01.TCACGGGAGTTG_7698	k__Bacteria; p__Chloroflexi; c__Ktedonobacteria	1.00	2
+C12.06102014.R2.D01.TCACGGGAGTTG_7699	Unassigned	1.00	1
+C12.06102014.R2.D01.TCACGGGAGTTG_7567	k__Bacteria; p__Acidobacteria; c__TM1; o__; f__; g__; s__	1.00	3
+C12.06102014.R2.D01.TCACGGGAGTTG_7694	k__Bacteria; p__Acidobacteria; c__Solibacteres; o__Solibacterales; f__Solibacteraceae; g__Candidatus Solibacter; s__	1.00	3
+C12.06102014.R2.D01.TCACGGGAGTTG_7695	k__Bacteria; p__Acidobacteria; c__Solibacteres; o__Solibacterales; f__Solibacteraceae; g__Candidatus Solibacter; s__	1.00	3
+C12.06102014.R2.D01.TCACGGGAGTTG_7696	k__Bacteria; p__Acidobacteria; c__Acidobacteriia; o__Acidobacteriales; f__Koribacteraceae; g__; s__	1.00	3
+C12.06102014.R2.D01.TCACGGGAGTTG_7697	k__Bacteria; p__Acidobacteria; c__DA052; o__Ellin6513; f__; g__; s__	1.00	3
+C12.06102014.R2.D01.TCACGGGAGTTG_7690	k__Bacteria; p__Acidobacteria; c__TM1; o__; f__; g__; s__	1.00	3
+C12.06102014.R2.D01.TCACGGGAGTTG_7691	Unassigned	1.00	1
+C12.06102014.R2.D01.TCACGGGAGTTG_7692	Unassigned	1.00	1
+C12.06102014.R2.D01.TCACGGGAGTTG_7693	k__Bacteria; p__Proteobacteria; c__Gammaproteobacteria; o__Oceanospirillales; f__Halomonadaceae; g__Halomonas	0.67	3
+C12.06102014.R2.D01.TCACGGGAGTTG_7517	k__Archaea; p__Crenarchaeota; c__MBGA; o__; f__; g__; s__	1.00	3
+C12.06102014.R2.D01.TCACGGGAGTTG_7516	k__Bacteria; p__Acidobacteria; c__Acidobacteriia; o__Acidobacteriales; f__Koribacteraceae; g__; s__	1.00	3
+C12.06102014.R2.D01.TCACGGGAGTTG_7515	k__Bacteria; p__Acidobacteria; c__Solibacteres; o__Solibacterales; f__Solibacteraceae; g__Candidatus Solibacter; s__	1.00	3
+C12.06102014.R2.D01.TCACGGGAGTTG_7514	k__Bacteria; p__Acidobacteria; c__TM1; o__; f__; g__; s__	1.00	3
+C12.06102014.R2.D01.TCACGGGAGTTG_7513	k__Bacteria; p__Chloroflexi; c__Ktedonobacteria	1.00	2
+C12.06102014.R2.D01.TCACGGGAGTTG_7512	k__Bacteria; p__Acidobacteria; c__TM1; o__; f__; g__; s__	1.00	3
+C12.06102014.R2.D01.TCACGGGAGTTG_7511	Unassigned	1.00	1
+C12.06102014.R2.D01.TCACGGGAGTTG_7510	k__Bacteria; p__Proteobacteria; c__Betaproteobacteria; o__Rhodocyclales; f__Rhodocyclaceae; g__Dechloromonas; s__	1.00	3
+C12.06102014.R2.D01.TCACGGGAGTTG_7519	Unassigned	1.00	1
+C12.06102014.R2.D01.TCACGGGAGTTG_7518	Unassigned	1.00	1
+C12.06102014.R2.D01.TCACGGGAGTTG_7463	Unassigned	1.00	1
+C12.06102014.R2.D01.TCACGGGAGTTG_7462	k__Bacteria; p__Acidobacteria; c__TM1; o__; f__; g__; s__	1.00	3
+C12.06102014.R2.D01.TCACGGGAGTTG_7461	k__Archaea; p__Crenarchaeota; c__MBGA; o__; f__; g__; s__	1.00	3
+C12.06102014.R2.D01.TCACGGGAGTTG_7460	k__Bacteria; p__Acidobacteria; c__DA052; o__Ellin6513; f__; g__; s__	1.00	3
+C12.06102014.R2.D01.TCACGGGAGTTG_7467	Unassigned	1.00	1
+C12.06102014.R2.D01.TCACGGGAGTTG_7466	Unassigned	1.00	1
+C12.06102014.R2.D01.TCACGGGAGTTG_7465	k__Bacteria; p__Proteobacteria; c__Deltaproteobacteria; o__Syntrophobacterales; f__Syntrophobacteraceae; g__; s__	1.00	3
+C12.06102014.R2.D01.TCACGGGAGTTG_7464	k__Bacteria; p__Bacteroidetes; c__Bacteroidia; o__Bacteroidales; f__; g__; s__	1.00	3
+C12.06102014.R2.D01.TCACGGGAGTTG_7469	k__Bacteria; p__Acidobacteria; c__Acidobacteria-5; o__; f__; g__; s__	0.67	3
+C12.06102014.R2.D01.TCACGGGAGTTG_7468	Unassigned	1.00	1
+C12.06102014.R2.D01.TCACGGGAGTTG_7568	k__Bacteria; p__Proteobacteria; c__Alphaproteobacteria; o__Rhizobiales; f__Methylocystaceae; g__; s__	0.67	3
+C12.06102014.R2.D01.TCACGGGAGTTG_7569	k__Bacteria; p__Proteobacteria; c__Deltaproteobacteria; o__Myxococcales; f__; g__; s__	1.00	3
+C12.06102014.R2.D01.TCACGGGAGTTG_7934	k__Bacteria; p__Proteobacteria; c__Alphaproteobacteria; o__Ellin329; f__; g__; s__	1.00	3
+C12.06102014.R2.D01.TCACGGGAGTTG_7838	Unassigned	1.00	1
+C12.06102014.R2.D01.TCACGGGAGTTG_7599	k__Bacteria; p__Proteobacteria; c__Alphaproteobacteria; o__Rhodospirillales; f__Rhodospirillaceae; g__; s__	1.00	3
+C12.06102014.R2.D01.TCACGGGAGTTG_7933	k__Bacteria; p__Acidobacteria; c__TM1; o__; f__; g__; s__	1.00	3
+C12.06102014.R2.D01.TCACGGGAGTTG_7932	k__Archaea; p__Crenarchaeota; c__MBGA; o__; f__; g__; s__	1.00	3
+C12.06102014.R2.D01.TCACGGGAGTTG_7834	Unassigned	1.00	1
+C12.06102014.R2.D01.TCACGGGAGTTG_7835	k__Bacteria; p__Chloroflexi; c__Ktedonobacteria	1.00	2
+C12.06102014.R2.D01.TCACGGGAGTTG_7836	k__Bacteria; p__Bacteroidetes; c__[Saprospirae]; o__[Saprospirales]; f__Saprospiraceae; g__; s__	1.00	3
+C12.06102014.R2.D01.TCACGGGAGTTG_7598	k__Bacteria; p__Proteobacteria; c__Alphaproteobacteria; o__Sphingomonadales; f__Sphingomonadaceae; g__Kaistobacter; s__	1.00	3
+C12.06102014.R2.D01.TCACGGGAGTTG_7830	k__Bacteria; p__Chloroflexi; c__Ktedonobacteria	1.00	2
+C12.06102014.R2.D01.TCACGGGAGTTG_7831	Unassigned	1.00	1
+C12.06102014.R2.D01.TCACGGGAGTTG_7832	k__Bacteria; p__Proteobacteria; c__Alphaproteobacteria; o__Rhodospirillales; f__Rhodospirillaceae; g__; s__	1.00	3
+C12.06102014.R2.D01.TCACGGGAGTTG_7833	k__Bacteria; p__Chloroflexi; c__Anaerolineae; o__Anaerolineales; f__Anaerolinaceae; g__; s__	1.00	3
+C12.06102014.R2.D01.TCACGGGAGTTG_7593	Unassigned	1.00	1
+C12.06102014.R2.D01.TCACGGGAGTTG_7592	k__Bacteria; p__Chloroflexi; c__Ktedonobacteria; o__Ktedonobacterales; f__Ktedonobacteraceae; g__; s__	0.67	3
+C12.06102014.R2.D01.TCACGGGAGTTG_7911	k__Bacteria; p__Bacteroidetes; c__Bacteroidia; o__Bacteroidales; f__; g__; s__	1.00	2
+C12.06102014.R2.D01.TCACGGGAGTTG_7910	k__Bacteria; p__Proteobacteria; c__Deltaproteobacteria; o__Desulfuromonadales; f__Geobacteraceae; g__Geobacter; s__	1.00	3
+C12.06102014.R2.D01.TCACGGGAGTTG_7917	k__Bacteria; p__Acidobacteria; c__Acidobacteriia; o__Acidobacteriales; f__Koribacteraceae; g__; s__	1.00	3
+C12.06102014.R2.D01.TCACGGGAGTTG_7764	k__Bacteria; p__Acidobacteria; c__Acidobacteria-6; o__iii1-15; f__; g__; s__	1.00	3
+C12.06102014.R2.D01.TCACGGGAGTTG_7765	k__Archaea; p__Crenarchaeota; c__MBGA; o__; f__; g__; s__	1.00	2
+C12.06102014.R2.D01.TCACGGGAGTTG_7766	k__Archaea; p__Crenarchaeota; c__MBGA; o__; f__; g__; s__	1.00	3
+C12.06102014.R2.D01.TCACGGGAGTTG_7767	k__Archaea; p__Crenarchaeota; c__MBGA; o__; f__; g__; s__	1.00	2
+C12.06102014.R2.D01.TCACGGGAGTTG_7760	k__Bacteria; p__Acidobacteria; c__Solibacteres; o__Solibacterales; f__Solibacteraceae; g__; s__	1.00	3
+C12.06102014.R2.D01.TCACGGGAGTTG_7761	k__Bacteria; p__Acidobacteria; c__Acidobacteriia; o__Acidobacteriales; f__Koribacteraceae; g__; s__	1.00	3
+C12.06102014.R2.D01.TCACGGGAGTTG_7649	k__Bacteria; p__Acidobacteria; c__TM1; o__; f__; g__; s__	1.00	3
+C12.06102014.R2.D01.TCACGGGAGTTG_7648	Unassigned	1.00	1
+C12.06102014.R2.D01.TCACGGGAGTTG_7647	k__Bacteria; p__Acidobacteria; c__TM1; o__; f__; g__; s__	1.00	3
+C12.06102014.R2.D01.TCACGGGAGTTG_7646	k__Archaea; p__Crenarchaeota; c__MBGA; o__NRP-J; f__; g__; s__	0.67	3
+C12.06102014.R2.D01.TCACGGGAGTTG_7645	k__Archaea; p__Crenarchaeota; c__MBGA; o__; f__; g__; s__	1.00	3
+C12.06102014.R2.D01.TCACGGGAGTTG_7644	k__Bacteria; p__Acidobacteria; c__Solibacteres; o__Solibacterales; f__Solibacteraceae; g__Candidatus Solibacter; s__	1.00	3
+C12.06102014.R2.D01.TCACGGGAGTTG_7643	k__Bacteria; p__Chlorobi; c__; o__; f__; g__; s__	1.00	1
+C12.06102014.R2.D01.TCACGGGAGTTG_7642	Unassigned	1.00	1
+C12.06102014.R2.D01.TCACGGGAGTTG_7641	Unassigned	1.00	1
+C12.06102014.R2.D01.TCACGGGAGTTG_7640	k__Bacteria; p__Acidobacteria; c__TM1; o__; f__; g__; s__	1.00	3
+C12.06102014.R2.D01.TCACGGGAGTTG_7919	Unassigned	1.00	1
+C12.06102014.R2.D01.TCACGGGAGTTG_7799	k__Archaea; p__Crenarchaeota; c__MBGA; o__; f__; g__; s__	1.00	3
+C12.06102014.R2.D01.TCACGGGAGTTG_7798	k__Archaea; p__Crenarchaeota; c__MBGA; o__; f__; g__; s__	1.00	3
+C12.06102014.R2.D01.TCACGGGAGTTG_7918	k__Archaea; p__Crenarchaeota; c__MBGA; o__; f__; g__; s__	1.00	3
+C12.06102014.R2.D01.TCACGGGAGTTG_7791	Unassigned	1.00	1
+C12.06102014.R2.D01.TCACGGGAGTTG_7768	k__Bacteria; p__Bacteroidetes; c__[Saprospirae]; o__[Saprospirales]; f__Chitinophagaceae; g__; s__	1.00	3
+C12.06102014.R2.D01.TCACGGGAGTTG_7793	k__Bacteria; p__Acidobacteria; c__DA052; o__Ellin6513; f__; g__; s__	1.00	3
+C12.06102014.R2.D01.TCACGGGAGTTG_7792	k__Bacteria; p__Acidobacteria; c__Acidobacteriia; o__Acidobacteriales; f__Koribacteraceae; g__; s__	1.00	3
+C12.06102014.R2.D01.TCACGGGAGTTG_7795	k__Bacteria; p__Bacteroidetes; c__[Saprospirae]; o__[Saprospirales]; f__Chitinophagaceae; g__; s__	1.00	3
+C12.06102014.R2.D01.TCACGGGAGTTG_7794	k__Bacteria; p__Bacteroidetes; c__Bacteroidia; o__Bacteroidales; f__; g__; s__	1.00	1
+C12.06102014.R2.D01.TCACGGGAGTTG_7797	k__Bacteria; p__Acidobacteria; c__Acidobacteriia; o__Acidobacteriales; f__Koribacteraceae; g__; s__	1.00	3
+C12.06102014.R2.D01.TCACGGGAGTTG_7769	k__Archaea; p__Crenarchaeota; c__MBGA; o__; f__; g__; s__	1.00	3
+C12.06102014.R2.D01.TCACGGGAGTTG_7492	k__Archaea; p__Crenarchaeota; c__MBGA; o__; f__; g__; s__	1.00	3
+C12.06102014.R2.D01.TCACGGGAGTTG_7493	k__Bacteria; p__Acidobacteria; c__TM1; o__; f__; g__; s__	1.00	3
+C12.06102014.R2.D01.TCACGGGAGTTG_7490	k__Bacteria; p__Proteobacteria; c__Deltaproteobacteria; o__Syntrophobacterales; f__Syntrophobacteraceae; g__; s__	1.00	3
+C12.06102014.R2.D01.TCACGGGAGTTG_7491	k__Bacteria; p__Acidobacteria; c__DA052; o__Ellin6513; f__; g__; s__	1.00	3
+C12.06102014.R2.D01.TCACGGGAGTTG_7496	k__Bacteria; p__Acidobacteria; c__TM1; o__; f__; g__; s__	1.00	3
+C12.06102014.R2.D01.TCACGGGAGTTG_7497	k__Bacteria; p__Acidobacteria; c__Acidobacteriia; o__Acidobacteriales; f__Acidobacteriaceae; g__; s__	1.00	3
+C12.06102014.R2.D01.TCACGGGAGTTG_7494	k__Bacteria; p__Acidobacteria; c__Acidobacteriia; o__Acidobacteriales; f__Koribacteraceae; g__; s__	1.00	3
+C12.06102014.R2.D01.TCACGGGAGTTG_7495	k__Bacteria; p__Chloroflexi; c__Ktedonobacteria	1.00	2
+C12.06102014.R2.D01.TCACGGGAGTTG_7498	Unassigned	1.00	1
+C12.06102014.R2.D01.TCACGGGAGTTG_7499	Unassigned	1.00	1
+C12.06102014.R2.D01.TCACGGGAGTTG_7548	Unassigned	1.00	1
+C12.06102014.R2.D01.TCACGGGAGTTG_7549	Unassigned	1.00	1
+C12.06102014.R2.D01.TCACGGGAGTTG_7544	Unassigned	1.00	1
+C12.06102014.R2.D01.TCACGGGAGTTG_7545	Unassigned	1.00	1
+C12.06102014.R2.D01.TCACGGGAGTTG_7546	k__Bacteria; p__Acidobacteria; c__Acidobacteriia; o__Acidobacteriales; f__Koribacteraceae; g__; s__	1.00	3
+C12.06102014.R2.D01.TCACGGGAGTTG_7547	k__Bacteria; p__Cyanobacteria; c__Chloroplast; o__Streptophyta; f__; g__; s__	1.00	3
+C12.06102014.R2.D01.TCACGGGAGTTG_7540	k__Bacteria; p__Acidobacteria; c__Acidobacteriia; o__Acidobacteriales; f__Acidobacteriaceae; g__; s__	1.00	3
+C12.06102014.R2.D01.TCACGGGAGTTG_7541	k__Bacteria; p__Chloroflexi; c__Ktedonobacteria; o__Thermogemmatisporales; f__Thermogemmatisporaceae; g__; s__	1.00	2
+C12.06102014.R2.D01.TCACGGGAGTTG_7542	k__Bacteria; p__Acidobacteria; c__TM1; o__; f__; g__; s__	1.00	3
+C12.06102014.R2.D01.TCACGGGAGTTG_7543	k__Bacteria; p__Acidobacteria; c__TM1; o__; f__; g__; s__	1.00	3
+C12.06102014.R2.D01.TCACGGGAGTTG_7427	k__Bacteria; p__Proteobacteria; c__Gammaproteobacteria; o__Xanthomonadales; f__Xanthomonadaceae; g__; s__	1.00	3
+C12.06102014.R2.D01.TCACGGGAGTTG_7426	Unassigned	1.00	1
+C12.06102014.R2.D01.TCACGGGAGTTG_7425	Unassigned	1.00	1
+C12.06102014.R2.D01.TCACGGGAGTTG_7424	Unassigned	1.00	1
+C12.06102014.R2.D01.TCACGGGAGTTG_7423	Unassigned	1.00	1
+C12.06102014.R2.D01.TCACGGGAGTTG_7422	k__Bacteria; p__Acidobacteria; c__Solibacteres; o__Solibacterales; f__Solibacteraceae; g__Candidatus Solibacter; s__	1.00	3
+C12.06102014.R2.D01.TCACGGGAGTTG_7421	k__Bacteria; p__Chloroflexi; c__Ktedonobacteria	1.00	2
+C12.06102014.R2.D01.TCACGGGAGTTG_7420	Unassigned	1.00	1
+C12.06102014.R2.D01.TCACGGGAGTTG_7429	k__Bacteria; p__Chloroflexi; c__Ktedonobacteria; o__Ktedonobacterales; f__Ktedonobacteraceae; g__; s__	1.00	1
+C12.06102014.R2.D01.TCACGGGAGTTG_7428	Unassigned	1.00	1
+C12.06102014.R2.D01.TCACGGGAGTTG_7870	k__Bacteria; p__Cyanobacteria; c__Nostocophycideae; o__Nostocales; f__Nostocaceae; g__; s__	0.67	3
+C12.06102014.R2.D01.TCACGGGAGTTG_7871	k__Bacteria; p__Acidobacteria; c__Acidobacteriia; o__Acidobacteriales; f__Koribacteraceae; g__; s__	1.00	3
+C12.06102014.R2.D01.TCACGGGAGTTG_7872	k__Bacteria; p__Acidobacteria; c__Acidobacteriia; o__Acidobacteriales; f__Koribacteraceae; g__; s__	1.00	3
+C12.06102014.R2.D01.TCACGGGAGTTG_7873	k__Bacteria; p__Chloroflexi; c__Ktedonobacteria; o__Thermogemmatisporales; f__Thermogemmatisporaceae; g__; s__	1.00	1
+C12.06102014.R2.D01.TCACGGGAGTTG_7874	Unassigned	1.00	1
+C12.06102014.R2.D01.TCACGGGAGTTG_7875	k__Archaea; p__Crenarchaeota; c__Thaumarchaeota; o__Cenarchaeales; f__SAGMA-X; g__; s__	0.67	3
+C12.06102014.R2.D01.TCACGGGAGTTG_7876	k__Bacteria; p__Actinobacteria; c__Actinobacteria; o__Actinomycetales; f__Micrococcaceae	0.67	3
+C12.06102014.R2.D01.TCACGGGAGTTG_7877	k__Bacteria; p__Cyanobacteria; c__Nostocophycideae; o__Nostocales; f__Nostocaceae; g__; s__	0.67	3
+C12.06102014.R2.D01.TCACGGGAGTTG_7878	k__Bacteria; p__Chloroflexi; c__Anaerolineae; o__Anaerolineales; f__Anaerolinaceae; g__WCHB1-05; s__	1.00	3
+C12.06102014.R2.D01.TCACGGGAGTTG_7879	k__Bacteria; p__Acidobacteria; c__Solibacteres; o__Solibacterales; f__Solibacteraceae; g__Candidatus Solibacter; s__	1.00	3
+C12.06102014.R2.D01.TCACGGGAGTTG_7763	k__Bacteria; p__Cyanobacteria; c__Nostocophycideae; o__Nostocales; f__Nostocaceae; g__; s__	0.67	3
+C12.06102014.R2.D01.TCACGGGAGTTG_7805	Unassigned	1.00	1
+C12.06102014.R2.D01.TCACGGGAGTTG_7804	Unassigned	1.00	1
+C12.06102014.R2.D01.TCACGGGAGTTG_7807	k__Bacteria; p__Cyanobacteria; c__4C0d-2; o__MLE1-12; f__; g__; s__	1.00	3
+C12.06102014.R2.D01.TCACGGGAGTTG_7806	k__Bacteria; p__Proteobacteria; c__Deltaproteobacteria	0.67	3
+C12.06102014.R2.D01.TCACGGGAGTTG_7801	k__Bacteria; p__Acidobacteria; c__TM1; o__; f__; g__; s__	1.00	3
+C12.06102014.R2.D01.TCACGGGAGTTG_7800	k__Bacteria; p__Proteobacteria; c__Alphaproteobacteria; o__Rhizobiales; f__Methylocystaceae; g__; s__	0.67	3
+C12.06102014.R2.D01.TCACGGGAGTTG_7803	k__Bacteria; p__Acidobacteria; c__TM1; o__; f__; g__; s__	1.00	3
+C12.06102014.R2.D01.TCACGGGAGTTG_7802	k__Bacteria; p__Acidobacteria; c__TM1; o__; f__; g__; s__	1.00	3
+C12.06102014.R2.D01.TCACGGGAGTTG_7809	Unassigned	1.00	1
+C12.06102014.R2.D01.TCACGGGAGTTG_7808	k__Bacteria; p__Acidobacteria; c__TM1; o__; f__; g__; s__	1.00	3
+C12.06102014.R2.D01.TCACGGGAGTTG_7790	k__Bacteria; p__Chloroflexi; c__Anaerolineae; o__Anaerolineales; f__Anaerolinaceae; g__; s__	0.67	3
+C12.06102014.R2.D01.TCACGGGAGTTG_7796	k__Bacteria; p__Proteobacteria; c__Deltaproteobacteria; o__Syntrophobacterales; f__Syntrophobacteraceae; g__; s__	1.00	3
+C12.06102014.R2.D01.TCACGGGAGTTG_7728	k__Bacteria; p__Proteobacteria; c__Deltaproteobacteria; o__Syntrophobacterales; f__Syntrophobacteraceae; g__; s__	1.00	3
+C12.06102014.R2.D01.TCACGGGAGTTG_7729	k__Bacteria; p__Proteobacteria; c__Deltaproteobacteria; o__Myxococcales; f__Haliangiaceae; g__; s__	1.00	3
+C12.06102014.R2.D01.TCACGGGAGTTG_7720	k__Bacteria; p__Acidobacteria; c__Solibacteres; o__Solibacterales; f__Solibacteraceae; g__Candidatus Solibacter; s__	1.00	3
+C12.06102014.R2.D01.TCACGGGAGTTG_7721	k__Bacteria; p__Chloroflexi; c__Ktedonobacteria	1.00	2
+C12.06102014.R2.D01.TCACGGGAGTTG_7722	k__Bacteria; p__Chloroflexi; c__Ktedonobacteria; o__Ktedonobacterales; f__Ktedonobacteraceae; g__; s__	1.00	1
+C12.06102014.R2.D01.TCACGGGAGTTG_7723	Unassigned	1.00	1
+C12.06102014.R2.D01.TCACGGGAGTTG_7724	Unassigned	1.00	1
+C12.06102014.R2.D01.TCACGGGAGTTG_7725	k__Bacteria; p__Proteobacteria; c__Deltaproteobacteria; o__Desulfuromonadales; f__Geobacteraceae; g__Geobacter; s__	1.00	3
+C12.06102014.R2.D01.TCACGGGAGTTG_7726	k__Bacteria; p__Bacteroidetes; c__Bacteroidia; o__Bacteroidales; f__; g__; s__	1.00	3
+C12.06102014.R2.D01.TCACGGGAGTTG_7727	Unassigned	1.00	1
+C12.06102014.R2.D01.TCACGGGAGTTG_7588	k__Bacteria; p__Proteobacteria; c__Deltaproteobacteria; o__Desulfuromonadales; f__Geobacteraceae; g__Geobacter; s__	0.67	3
+C12.06102014.R2.D01.TCACGGGAGTTG_7614	Unassigned	1.00	1
+C12.06102014.R2.D01.TCACGGGAGTTG_7615	k__Bacteria; p__Proteobacteria; c__Betaproteobacteria; o__Burkholderiales; f__Burkholderiaceae; g__Burkholderia; s__	0.67	3
+C12.06102014.R2.D01.TCACGGGAGTTG_7616	Unassigned	1.00	1
+C12.06102014.R2.D01.TCACGGGAGTTG_7617	k__Bacteria; p__Acidobacteria; c__DA052; o__Ellin6513; f__; g__; s__	1.00	3
+C12.06102014.R2.D01.TCACGGGAGTTG_7610	k__Bacteria; p__Bacteroidetes; c__Bacteroidia; o__Bacteroidales; f__; g__; s__	1.00	3
+C12.06102014.R2.D01.TCACGGGAGTTG_7611	k__Bacteria; p__Acidobacteria; c__DA052; o__Ellin6513; f__; g__; s__	1.00	3
+C12.06102014.R2.D01.TCACGGGAGTTG_7612	k__Bacteria; p__Cyanobacteria; c__Nostocophycideae; o__Nostocales; f__Nostocaceae; g__Anabaenopsis; s__	1.00	1
+C12.06102014.R2.D01.TCACGGGAGTTG_7613	Unassigned	1.00	1
+C12.06102014.R2.D01.TCACGGGAGTTG_7597	k__Bacteria; p__Acidobacteria; c__Solibacteres; o__Solibacterales; f__Solibacteraceae; g__Candidatus Solibacter; s__	0.67	3
+C12.06102014.R2.D01.TCACGGGAGTTG_7596	k__Bacteria; p__Cyanobacteria; c__Nostocophycideae; o__Nostocales; f__Nostocaceae; g__; s__	0.67	3
+C12.06102014.R2.D01.TCACGGGAGTTG_7595	Unassigned	1.00	1
+C12.06102014.R2.D01.TCACGGGAGTTG_7594	k__Bacteria; p__Chloroflexi; c__Ktedonobacteria	1.00	2
+C12.06102014.R2.D01.TCACGGGAGTTG_7618	k__Bacteria; p__Acidobacteria; c__TM1; o__; f__; g__; s__	1.00	3
+C12.06102014.R2.D01.TCACGGGAGTTG_7619	k__Bacteria; p__Acidobacteria; c__Acidobacteriia; o__Acidobacteriales; f__Acidobacteriaceae; g__; s__	0.67	3
+C12.06102014.R2.D01.TCACGGGAGTTG_7591	k__Archaea; p__Crenarchaeota; c__MBGA; o__NRP-J; f__; g__; s__	0.67	3
+C12.06102014.R2.D01.TCACGGGAGTTG_7590	k__Bacteria; p__Acidobacteria; c__TM1; o__; f__; g__; s__	1.00	3
+C12.06102014.R2.D01.TCACGGGAGTTG_7589	k__Bacteria; p__Acidobacteria; c__Acidobacteriia; o__Acidobacteriales; f__Koribacteraceae; g__; s__	1.00	3
+C12.06102014.R2.D01.TCACGGGAGTTG_7759	k__Archaea; p__Crenarchaeota; c__MBGA; o__; f__; g__; s__	1.00	3
+C12.06102014.R2.D01.TCACGGGAGTTG_7758	k__Bacteria; p__Chloroflexi; c__Ktedonobacteria; o__Ktedonobacterales; f__Ktedonobacteraceae; g__; s__	1.00	1
+C12.06102014.R2.D01.TCACGGGAGTTG_7755	Unassigned	1.00	1
+C12.06102014.R2.D01.TCACGGGAGTTG_7754	k__Archaea; p__Crenarchaeota; c__MBGA; o__; f__; g__; s__	1.00	3
+C12.06102014.R2.D01.TCACGGGAGTTG_7757	k__Bacteria; p__Acidobacteria; c__Acidobacteriia; o__Acidobacteriales; f__Koribacteraceae; g__; s__	1.00	3
+C12.06102014.R2.D01.TCACGGGAGTTG_7756	k__Bacteria; p__Acidobacteria; c__TM1; o__; f__; g__; s__	1.00	3
+C12.06102014.R2.D01.TCACGGGAGTTG_7751	k__Bacteria; p__Bacteroidetes; c__[Saprospirae]; o__[Saprospirales]; f__Chitinophagaceae; g__; s__	1.00	3
+C12.06102014.R2.D01.TCACGGGAGTTG_7750	Unassigned	1.00	1
+C12.06102014.R2.D01.TCACGGGAGTTG_7753	k__Bacteria; p__Proteobacteria; c__Alphaproteobacteria; o__Rhizobiales; f__Hyphomicrobiaceae; g__Rhodoplanes; s__	0.67	3
+C12.06102014.R2.D01.TCACGGGAGTTG_7752	k__Bacteria; p__Acidobacteria; c__Solibacteres; o__Solibacterales; f__Solibacteraceae; g__Candidatus Solibacter; s__	1.00	2
+C12.06102014.R2.D01.TCACGGGAGTTG_7500	k__Bacteria; p__Chlorobi; c__; o__; f__; g__; s__	1.00	1
+C12.06102014.R2.D01.TCACGGGAGTTG_7501	k__Archaea; p__Crenarchaeota; c__MBGA; o__; f__; g__; s__	1.00	3
+C12.06102014.R2.D01.TCACGGGAGTTG_7502	k__Bacteria; p__Acidobacteria; c__Acidobacteriia; o__Acidobacteriales; f__Acidobacteriaceae; g__; s__	0.67	3
+C12.06102014.R2.D01.TCACGGGAGTTG_7503	k__Archaea; p__Crenarchaeota; c__MBGA; o__; f__; g__; s__	1.00	3
+C12.06102014.R2.D01.TCACGGGAGTTG_7504	k__Bacteria; p__Acidobacteria; c__Acidobacteriia; o__Acidobacteriales; f__Koribacteraceae; g__; s__	1.00	3
+C12.06102014.R2.D01.TCACGGGAGTTG_7505	Unassigned	1.00	1
+C12.06102014.R2.D01.TCACGGGAGTTG_7506	k__Bacteria; p__Chloroflexi; c__Ktedonobacteria	1.00	2
+C12.06102014.R2.D01.TCACGGGAGTTG_7507	k__Bacteria; p__Proteobacteria; c__Alphaproteobacteria; o__Rhodospirillales; f__Rhodospirillaceae; g__; s__	1.00	2
+C12.06102014.R2.D01.TCACGGGAGTTG_7508	k__Bacteria; p__Proteobacteria; c__Deltaproteobacteria; o__Desulfuromonadales; f__Geobacteraceae; g__Geobacter; s__	1.00	3
+C12.06102014.R2.D01.TCACGGGAGTTG_7509	Unassigned	1.00	1
